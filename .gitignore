@@ -1,0 +1,17 @@
+/build/
+/build64/
+/out/
+/data/
+/release/
+/.vs/
+*.user
+*.suo
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.map
+.env
+.env.*
