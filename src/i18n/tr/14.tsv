@@ -1,0 +1,123 @@
+ke103cbcfdf	A key or pad button of your choice that fires like the game's fire key while it is held (outside aim: firing without aiming or the RE6 quick shot if they are ticked). Choose it in the Shortcut column; the box turns this key on or off.	Una tecla o un botón del mando a tu elección que dispara como la tecla de disparo del juego mientras se mantiene (sin apuntar: el disparo sin apuntar o el disparo rápido RE6 si están marcados). Elígelo en la columna Atajo; la casilla activa o desactiva esta tecla.
+k29e9985995	Units taken from a player's knife per knife slash that hits an enemy (not slashes in the air).	Unidades restadas al cuchillo de un jugador por cada cuchillazo que alcanza a un enemigo (no los cuchillazos al aire).
+kc081f90cf7	Units taken from player 1's knife per successful knife parry (knife riposte only).	Unidades restadas al cuchillo del jugador 1 por cada bloqueo con cuchillo logrado (solo la réplica con cuchillo).
+k6ad12183fd	Uses the healing item best suited to Chris's health: above 60 % green herb (or white egg), then double green (or brown egg), then green + red, spray or golden egg; between 20 and 60 % double green first; below 20 % green + red, spray or golden egg first. Within the same level, the smallest stack goes first. Without animation if "Heal without animation" is ticked.	Usa la cura más adecuada a la vida de Chris: por encima del 60 % hierba verde (o huevo blanco), luego doble verde (o huevo marrón), luego verde + roja, spray o huevo dorado; entre el 20 y el 60 % primero doble verde; por debajo del 20 % primero verde + roja, spray o huevo dorado. Dentro de un mismo nivel, la pila más pequeña va primero. Sin animación si «Curación sin animación» está marcado.
+ke927886584	Use the back-ups	Usar los back-up
+k00c531b6a2	Using a healing item (equipped or from the inventory) no longer plays the healing animation or the weapon change: the item is used at once and Chris keeps his weapon in hand.	Usar un objeto de cura (equipado o desde el inventario) ya no reproduce la animación de cura ni el cambio de arma: el objeto se usa al instante y Chris conserva su arma en la mano.
+k88e2052f25	Staggers (legs)	Se tambalea (piernas)
+k68f92b0dd4	Value	Valor
+ka3c9ab8d5e	Game value	Valor del juego
+k2eabfc2f95	Game value: %s	Valor del juego: %s
+k99df30f66f	Game version %s not validated (expected %s): options disabled.	Versión del juego %s no validada (se esperaba %s): opciones desactivadas.
+kf8397962da	Max health: game value	Vida máx.: valor del juego
+k716ee8c1a7	Player 1 max health	Vida máx. del jugador 1
+k74539e6d05	Player 2 max health	Vida máx. del jugador 2
+k52facdc377	Aim with the knife (key)	Apuntar con el cuchillo (tecla)
+k5366b179e4	Wesker's guard speed (parry)	Velocidad de la guardia de Wesker (bloqueo)
+k16d7801caa	Reload speed per weapon	Velocidad de recarga por arma
+k156dae2fbd	Speed of every enemy (1 = normal, 0 = frozen; dogs, spiders and lickers ignore 0).	Velocidad de todos los enemigos (1 = normal, 0 = congelados; perros, arañas y lickers ignoran el 0).
+k8f9754c751	Enemy speed	Velocidad de los enemigos
+k0e63fe1181	Melee speed	Velocidad del cuerpo a cuerpo
+k86ce22276d	Character speed (1 = normal), animations included.	Velocidad del personaje (1 = normal), animaciones incluidas.
+k7c84a79c22	Time speed	Velocidad del tiempo
+k40b7a2fb67	Normal speed while dying	Velocidad normal estando moribundo
+ka84dd2c36a	Speed — Player 1	Velocidad — Jugador 1
+k22c2296df9	Speed — Player 2	Velocidad — Jugador 2
+k41ef93fe98	First-person view	Vista en primera persona
+k8ca245ba8b	Indestructible vehicle	Vehículo indestructible
+k9bcd6cc81e	W12 (default)	W12 (por defecto)
+k24d3371379	Warrior (Reunion)	Warrior (Reunion)
+kd89b1161f2	Wesker	Wesker
+k510092ddb9	Wesker - HP: %d / %d	Wesker - PV: %d / %d
+ke82020acfe	Wesker - give-up: %d / %d	Wesker - abandono: %d / %d
+k4ac313b55e	Wesker Arm Back	Wesker Arm Back
+kb8ef8d1e85	Wesker Arm Front	Wesker Arm Front
+kaa8b9ad3fd	Wesker Finisher Back	Wesker Finisher Back
+kf5c7034315	Wesker Finisher Front	Wesker Finisher Front
+k5e5c3023f3	Wesker Ground	Wesker Ground
+ka6871c3110	Wesker Head Flash	Wesker Head Flash
+k69f790501d	Wesker Help	Wesker Help
+k37fe4c7bf4	Wesker Leg Back	Wesker Leg Back
+k1bd52ca563	Wesker Leg Front	Wesker Leg Front
+kfa17aab829	Wesker keeps his glasses	Wesker conserva sus gafas
+ke910fc9087	Wesker never gives up	Wesker nunca se rinde
+k71b4cc6ae2	Wesker never loses his glasses.	Wesker nunca pierde sus gafas.
+k6bedc81347	Wesker is stubborn	Wesker se obstina
+k6ac127b70f	Wesker is stubborn (Lost in Nightmares)	Wesker se obstina (Lost in Nightmares)
+k40dde2ea8d	Wesker without time limit	Wesker sin límite de tiempo
+ka2a599451b	Wesker without time limit (Lost in Nightmares)	Wesker sin límite de tiempo (Lost in Nightmares)
+kd507ebf2f5	Two-person areas: player 1 is enough	Zonas a dos: basta con el jugador 1
+kd84a65cd15	x1 = the weapon as it is in the game, upgrades included (an upgraded 92F at 200 power: x1 = 200, x1.5 = 300); x2 = twice as much (fast, strong, critical chance, bullets). "Shells per push": with "Shell-by-shell reload", the shells put in at each push (never more than are missing). Single click on a slider to type the value.	x1 = el arma tal como está en el juego, mejoras incluidas (una 92F mejorada a 200 de potencia: x1 = 200, x1.5 = 300); x2 = el doble (de rapidez, de fuerza, de probabilidad de crítico, de balas). «Cartuchos por gesto»: con «Recarga cartucho a cartucho», los cartuchos metidos en cada gesto (nunca más de los que faltan). Un clic en un deslizador para escribir el valor.
+k42d252c76f	"Give" is no longer greyed out when the partner is far away (normally you must be within 3 m and see them), and an item asked from the partner is given at once, without them coming over to you. Players 1 and 2.	«Dar» ya no está en gris cuando el compañero está lejos (normalmente hay que estar a menos de 3 m y verlo), y un objeto pedido al compañero se da al instante, sin que venga hasta ti. Jugadores 1 y 2.
+kcc0cb3416a	At each parry, a ring spreads from the bottom of the screen (where the prompts are shown), like the effect of Resident Evil 6's counter-attacks. Drawn by the trainer.	En cada bloqueo, un anillo sale de la parte inferior de la pantalla (donde se muestran los indicadores), como el efecto de los contraataques de Resident Evil 6. Dibujado por el trainer.
+ka8ae98c165	On its knees (opens a melee)	De rodillas (abre un cuerpo a cuerpo)
+k162738191d	On the pad, shows the keyboard/mouse reticle instead of the laser (weapons that have their own laser keep it). Pad aiming keeps its free zone: the reticle does not follow the weapon left and right (research in progress). Works with "Laser with keyboard/mouse".	En el mando, muestra la retícula de teclado/ratón en lugar del láser (las armas que tienen su propio láser lo conservan). El apuntado con mando mantiene su zona libre: la retícula no sigue al arma a izquierda y derecha (investigación en curso). Funciona con «Láser con teclado/ratón».
+k628033ba87	In first person, the camera goes back to third person during melee blows (the game's and the trainer's), then returns to first person.	En primera persona, la cámara vuelve a la tercera persona durante los golpes cuerpo a cuerpo (los del juego y los del trainer) y luego regresa a la primera persona.
+k1cd177adad	In first person, the camera goes back to third person during jumps, climbing up and down, fences, ladders and cliffs, then returns to first person.	En primera persona, la cámara vuelve a la tercera persona durante los saltos, las subidas y bajadas, las vallas, las escaleras y los acantilados, y luego regresa a la primera persona.
+k8dcdcc6258	In first person, the camera goes back to third person when an enemy grabs Chris, then returns to first person when he is free.	En primera persona, la cámara vuelve a la tercera persona cuando un enemigo agarra a Chris, y luego regresa a la primera persona cuando queda libre.
+k012e457a95	In first person, during dodges (the game's and the trainer's) and the trainer's moves, the camera turns with Chris's head, as if it made the move with him (a roll makes it roll); the rest of the time it does not follow his body. The slider sets the strength.	En primera persona, durante las esquivas (las del juego y las del trainer) y los movimientos del trainer, la cámara gira con la cabeza de Chris, como si hiciera el movimiento con él (una voltereta la hace rodar); el resto del tiempo no sigue su cuerpo. El deslizador ajusta la intensidad.
+kf6248ddd7f	Hold	Mantener
+k55acb3e7b9	Hold (optional)	Mantener (opcional)
+kf138ffee47	To use with the Size slider: without this option, the game puts the normal size back when the character climbs a ladder or jumps off a ledge.	Para usar con el deslizador Tamaño: sin esta opción, el juego devuelve el tamaño normal cuando el personaje sube por una escalera o salta desde un borde.
+kad119ca60c	Swap: Partner action	Intercambio: Acción de compañero
+k395ff75b17	Swap: Arm Back	Intercambio: Arm Back
+k5e7f72bdaa	Swap: Arm Front	Intercambio: Arm Front
+kb3fa25c511	Swap: Move forward (Move Forward)	Intercambio: Avanzar (Move Forward)
+k9b145072a6	Swap: Licker counter	Intercambio: Contra licker
+k2159df5ec9	Swap: Run (Run)	Intercambio: Correr (Run)
+ke4765bca7d	Swap: Knife (Knife)	Intercambio: Cuchillo (Knife)
+k99d69cf779	Swap: Quick turn (Quick Turn)	Intercambio: Media vuelta (Quick Turn)
+kde322876e4	Swap: Right (Move Right)	Intercambio: Derecha (Move Right)
+k87aa9f2d63	Swap: Finisher Back	Intercambio: Finisher Back
+k5bd072f6f3	Swap: Finisher Front	Intercambio: Finisher Front
+kad8ca05e25	Swap: Licker knife finisher	Intercambio: Remate al licker con cuchillo
+kab5396ec57	Swap: Left (Move Left)	Intercambio: Izquierda (Move Left)
+kf124f05773	Swap: Ground (enemy on the ground)	Intercambio: Ground (enemigo en el suelo)
+kf3a0b4a8dc	Swap: Head Flash	Intercambio: Head Flash
+k8fdbbc7dd3	Swap: Help (help the partner)	Intercambio: Help (ayudar al compañero)
+kccd9324bee	Swap: Leg Back	Intercambio: Leg Back
+k1954f7e8d1	Swap: Leg Front	Intercambio: Leg Front
+k4b6a79dd80	Swap: Licker tongue rescue	Intercambio: Liberación de la lengua de licker
+kf16e7f6181	Swap: Parasite rescue (knife)	Intercambio: Liberación de parásito (cuchillo)
+ka8c55ced7e	Swap: Taunt (Taunt)	Intercambio: Provocación (Taunt)
+k189796e56f	Swap: Reload (Reload)	Intercambio: Recargar (Reload)
+k5b98a35341	Swap: Move back (Move Backwards)	Intercambio: Retroceder (Move Backwards)
+k81e3244126	Really swaps A and X for the game, as in RE4: A becomes the action button (pick up, cross, melee...) and X the run button (quick turn, reload while aiming). The prompts show the right button. Your trainer shortcuts stay on the pad's real buttons.	Intercambia de verdad A y X para el juego, como en RE4: A pasa a ser el botón de acción (recoger, franquear, cuerpo a cuerpo...) y X el botón de correr (media vuelta, recargar al apuntar). Los indicadores muestran el botón correcto. Tus atajos del trainer siguen en los botones reales del mando.
+k0dce33709e	Trade weapons with the partner	Intercambiar armas con el compañero
+k461c0c1df9	Trades without animation	Intercambios sin animación
+ke7a16419fb	Automatic escapes	Liberaciones automáticas
+k9efddfef49	Writes into i18n_strings.txt (trainer's folder) every menu text and those shown since launch, marked - when they have no translation yet.	Escribe en i18n_strings.txt (carpeta del trainer) todos los textos del menú y los mostrados desde el lanzamiento, marcados con - cuando aún no tienen traducción.
+k05b1682e7c	Writes into trainer.log what changes in an enemy 0.25 s after a blow by player 1.	Escribe en trainer.log lo que cambia en un enemigo 0,25 s después de un golpe del jugador 1.
+kd5d28de161	Writes into trainer.log every animation Jill or Wesker starts: their action, the animation's number, the list it comes from and its length. Used to take their moves for Chris.	Escribe en trainer.log cada animación que lanzan Jill o Wesker: su acción, el número de la animación, la lista de la que viene y su duración. Sirve para tomar sus movimientos para Chris.
+k87b6e7e14e	Writes into trainer.log every game button read as pressed, with the code that reads it.	Escribe en trainer.log cada botón del juego leído como pulsado, con el código que lo lee.
+kbba92325fc	Writes into trainer.log every change of place of one of Chris's stored weapons (rifle on the back, knife sheath...) and of his weapon animation settings (man / woman) and hand (right-handed / left-handed), with the current action, to find what moves them.	Escribe en trainer.log cada cambio de lugar de un arma guardada de Chris (rifle en la espalda, funda del cuchillo...) y de sus ajustes de animaciones de armas (hombre / mujer) y de mano (diestro / zurdo), con la acción en curso, para encontrar lo que los desplaza.
+k75ade7505f	Writes into trainer.log every blow an enemy takes (the blow's content, weapon in hand, player 1's action).	Escribe en trainer.log cada golpe que recibe un enemigo (contenido del golpe, arma en la mano, acción del jugador 1).
+k1ce3b01f9c	Writes into trainer.log every effect started by the game (identifier, unit, parameters) and the code that starts it.	Escribe en trainer.log cada efecto lanzado por el juego (identificador, unidad, parámetros) y el código que lo lanza.
+k0acb83be6d	Writes into trainer.log every enemy created by the game (its class and the code that creates it). Used to find how to spawn an enemy.	Escribe en trainer.log cada enemigo creado por el juego (su clase y el código que lo crea). Sirve para encontrar cómo hacer aparecer un enemigo.
+k424303da3f	Writes into trainer.log every enemy whose HP drop to 0, then its actions and animations for 8 s, with what the players do. Used to handle forced kills (neck break...) on enemies that do not plan for them.	Escribe en trainer.log cada enemigo cuyos PV caen a 0, y luego sus acciones y animaciones durante 8 s, con lo que hacen los jugadores. Sirve para gestionar las muertes forzadas (neck break...) en los enemigos que no las prevén.
+k02fbcdbdee	Writes into trainer.log every way an enemy loses health (path in the code) with what player 1 is doing. Used to understand why a blow does not hit.	Escribe en trainer.log cada forma en que un enemigo pierde vida (ruta en el código) con lo que hace el jugador 1. Sirve para entender por qué un golpe no alcanza.
+ke9982a0471	Writes into trainer.log every kill counted by Mercenaries, with who counted it.	Escribe en trainer.log cada muerte contada por Mercenarios, con quién la contó.
+k94278bf4c4	Writes into trainer.log every item (ammo, healing, weapons...) created by the game and the code that creates it.	Escribe en trainer.log cada objeto (munición, curas, armas...) creado por el juego y el código que lo crea.
+k7205fe4654	Writes into trainer.log every scenery object created by the game (its class, its place and the code that creates it). Used to create an object that does not exist in the level.	Escribe en trainer.log cada objeto del escenario creado por el juego (su clase, su lugar y el código que lo crea). Sirve para crear un objeto que no existe en el nivel.
+ka78dcecf8b	Writes into trainer.log every constant AI parameter (integer or real) initialised, once each: its value, who read it and whether Wesker was there. Used to find his time limit.	Escribe en trainer.log cada parámetro constante de la IA (entero o real) inicializado, una vez cada uno: su valor, quién lo leyó y si Wesker estaba ahí. Sirve para encontrar su límite de tiempo.
+k3c00f29f45	Writes into trainer.log every action prompt that appears: its type, its icon, who it belongs to (enemy, player, object) and whether it counts as a melee prompt.	Escribe en trainer.log cada indicador de acción que aparece: su tipo, su icono, a quién pertenece (enemigo, jugador, objeto) y si cuenta como indicador de cuerpo a cuerpo.
+k35d28f1649	Writes into trainer.log every sound requested by the game (bank, number, unit) and the code that requests it.	Escribe en trainer.log cada sonido pedido por el juego (banco, número, unidad) y el código que lo pide.
+k776d2c24e0	Writes into trainer.log every sound requested by player 1 and by the enemies (bank, number, action and animation at that moment). Used to find the native sounds (neck break crack, impacts of Jill's and Wesker's kicks) for the trainer's moves. Turn it off afterwards.	Escribe en trainer.log cada sonido pedido por el jugador 1 y por los enemigos (banco, número, acción y animación en ese momento). Sirve para encontrar los sonidos nativos (crujido del neck break, impactos de las patadas de Jill y de Wesker) para los movimientos del trainer. Desactívalo después.
+k481413ddbd	Writes into trainer.log every subtitle (or message) created by the game and the code that creates it.	Escribe en trainer.log cada subtítulo (o mensaje) creado por el juego y el código que lo crea.
+k330174314a	Writes into trainer.log the name of every effect list requested by the game (effect\\efl\\...) and the place in the code that requests it.	Escribe en trainer.log el nombre de cada lista de efectos pedida por el juego (effect\\efl\\...) y el lugar del código que la pide.
+kf355839672	Writes into trainer.log whether Chris is in the prompt area of the room's added jumps (the game's tests), with the positions.	Escribe en trainer.log si Chris está en la zona del indicador de los saltos añadidos de la sala (las pruebas del juego), con las posiciones.
+kecf566bc91	Writes into trainer.log, every second, how many times the pause menu's functions were called.	Escribe en trainer.log, cada segundo, cuántas veces se han llamado las funciones del menú de pausa.
+k82daaaedcb	Writes into trainer.log, in order, every blow player 1 takes (attacker, type of blow), what they do next, their health losses and the nearby enemies' actions. Used to understand grabs.	Escribe en trainer.log, por orden, cada golpe que recibe el jugador 1 (atacante, tipo de golpe), lo que hace después, sus pérdidas de vida y las acciones de los enemigos cercanos. Sirve para entender los agarres.
+k591cdd05aa	Inventory editor	Editor de inventario
+kb633bcb09c	Arc thickness (1 = the starting one).	Grosor del arco (1 = el inicial).
+kd2e866361a	Equipment: Combo bonus	Equipo: Bonus de combo
+k4430740470	Equipment: Tablet map	Equipo: Mapa de las tablillas
+k9d22749167	Equipment: Melee vest	Equipo: Chaleco de combate
+kd191849c12	Equipment: Bulletproof vest	Equipo: Chaleco antibalas
+k6e57a2739a	State of the enemy hit (RE6 quick shot)	Estado del enemigo alcanzado (disparo rápido RE6)
+ke5783b150b	State of the parried Majini (RE4 parry, knife)	Estado del Majini bloqueado (bloqueo RE4, cuchillo)
+k8eecd0bfbd	State of the parried Majini (RE6 parry)	Estado del Majini bloqueado (bloqueo RE6)
+k5f225633f5	State of the parried Majini (RE7 parry, Wesker's guard)	Estado del Majini bloqueado (bloqueo RE7, guardia de Wesker)
+k251ab706ef	Sparks: number of the game's first effect	Chispas: número del primer efecto del juego
+k1e40dc41d8	Sparks: number of the game's second effect	Chispas: número del segundo efecto del juego
+k035add4aa8	Sparks on the knife parry (RE4 Remake)	Chispas en el bloqueo con cuchillo (RE4 Remake)

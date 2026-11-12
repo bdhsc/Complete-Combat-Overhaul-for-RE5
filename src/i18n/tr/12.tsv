@@ -1,0 +1,170 @@
+k5948548bf9	When a licker leaps on you, you lose health while it holds you, as during the other grabs (a Majini bite drains about 180 HP/s). The slider sets the HP lost per second; never below 1 HP (its final blow is what kills). Infinite health and invincibility still protect.	Cuando un licker se te echa encima, pierdes vida mientras te sujeta, como en los demás agarres (un mordisco de Majini drena unos 180 PV/s). El deslizador ajusta los PV perdidos por segundo; nunca por debajo de 1 PV (es su golpe final el que mata). La vida infinita y la invencibilidad siguen protegiendo.
+k852c2d859d	When a spider parasite leaps on you and holds you (normally only the partner can get you out), a prompt appears: mash the keys shown (Q / D on AZERTY, A / D on QWERTY, or the left stick) to fill the gauge and tear it off. Failed: the grab goes on as usual. The slider sets the number of presses.	Cuando un parásito araña se te echa encima y te sujeta (normalmente solo el compañero puede sacarte), aparece un indicador: machaca las teclas indicadas (Q / D en AZERTY, A / D en QWERTY, o el stick izquierdo) para llenar el indicador y arrancártelo. Fallo: el agarre continúa como de costumbre. El deslizador ajusta el número de pulsaciones.
+k3c39fa9e9e	When an enemy rocket comes at Chris and you parry at the right time (knife parry; not the RE6-style parry): with the "Knife slash" riposte, Chris sends it back to its shooter with a knife slash; with Wesker's guard or a throw (Chris, Josh), he catches it like Wesker (it does not explode, its flame goes out, then he throws it behind him).	Cuando un cohete enemigo llega hacia Chris y bloqueas en el momento justo (bloqueo con cuchillo; no el bloqueo al estilo RE6): con la réplica «Cuchillazo», Chris lo devuelve de un cuchillazo hacia su tirador; con la guardia de Wesker o una proyección (Chris, Josh), lo atrapa como Wesker (no explota, su llama se apaga y luego lo tira detrás de él).
+k09a38fda78	Quantity	Cantidad
+k8204aa5ab6	Quantity 0 = the item's normal quantity. A weapon absent from the level is loaded on the fly.	Cantidad 0 = cantidad normal del objeto. Un arma ausente del nivel se carga al vuelo.
+k6d927e6e1d	Quantity##add	Cantidad##add
+k5d7a823258	Quick Duck	Quick Duck
+k5f8570fc4b	Quick Turn	Quick Turn
+k6b6dfa450a	RE5 Trainer loaded — 	RE5 Trainer cargado —
+ke27b73f244	Shortcut	Atajo
+k2fe4fbfe27	Shortcut shared with: 	Atajo compartido con:
+kf7729018be	Shortcuts: activate a preset	Atajos: activar un preajuste
+ke41e071251	Raft: leaving in %d s	Balsa: sale en %d s
+kde66fd8c92	Crank raft: alone	Balsa de manivela: en solitario
+k27525287a3	Slow motion in the inventory	Cámara lenta en el inventario
+k0a1dc4bfa2	Pickup without animation	Recogida sin animación
+kcfc2977ecb	Picking up an item no longer plays the pickup animation: the item is added at once (a new weapon equipped as usual) and Chris goes on with what he was doing. Inventory full: normal pickup with its menu.	Recoger un objeto ya no reproduce la animación de recogida: el objeto se añade al instante (un arma nueva se equipa como de costumbre) y Chris sigue con lo que estaba haciendo. Inventario lleno: recogida normal con su menú.
+kd432c85cdd	Pick up, lay mines, fire, reload and heal almost instantly. Can freeze the character in rare cases: getting hit or restarting frees them.	Recoger, poner minas, disparar, recargar y curarse casi al instante. Puede congelar al personaje en casos raros: recibir un golpe o reiniciar lo desbloquea.
+k3489bb1759	Bring back	Traer
+kfb4327968c	Rapid / Infinite	Rápido / Infinito
+k7dd7e2af0a	Rapid / Infinite: the weapon's rapid fire and infinite ammo (checkboxes).	Rápido / Infinito: disparo rápido y munición infinita del arma (casillas).
+k303149244d	Catch rockets (parry)	Atrapar los cohetes (bloqueo)
+ka4244dfc49	Rebecca	Rebecca
+k71c5388e4b	Rebecca Arm Back	Rebecca Arm Back
+k6383ae3e49	Rebecca Arm Front	Rebecca Arm Front
+k6894bc230a	Rebecca Finisher Back	Rebecca Finisher Back
+k9d2f5ccfad	Rebecca Finisher Front	Rebecca Finisher Front
+k60a04c91c4	Rebecca Ground	Rebecca Ground
+k992f2a5cdf	Rebecca Head Flash	Rebecca Head Flash
+k22966de562	Rebecca Help	Rebecca Help
+k7bad393af1	Rebecca Leg Back	Rebecca Leg Back
+k07282c22db	Rebecca Leg Front	Rebecca Leg Front
+k61d5e79665	Reloads the weapon with the chosen shortcut (a keyboard key, a mouse button or a pad button). Useful on the pad with "No reload with the run key", the game reloading there with aim + run.	Recarga el arma con el atajo elegido (una tecla del teclado, del ratón o un botón del mando). Útil en el mando con «Sin recarga con la tecla de correr», ya que el juego recarga ahí con apuntar + correr.
+k0e4e9d3167	Reloads the full magazine even without ammo in reserve; the reserve is never used.	Recarga el cargador completo aunque no haya munición de reserva; la reserva nunca se gasta.
+k81c38d66f3	Shell-by-shell reload	Recarga cartucho a cartucho
+ka3094fd1bd	Reload (shortcut)	Recargar (atajo)
+k6f737c10e7	Reload (shortcut): not during a pickup prompt	Recargar (atajo): no durante un indicador de recogida
+ka3d187b549	Reload without reserve	Recargar sin reserva
+kda9bde6a75	Research: notes in trainer.log every place in the game that asks for player 2's equipped item.	Investigación: anota en trainer.log cada lugar del juego que pide el objeto equipado del jugador 2.
+k850fedfbc5	Research: notes in trainer.log each check of the script that writes a flag (caller, flag, value), once each.	Investigación: anota en trainer.log cada comprobación del script que escribe una bandera (llamador, bandera, valor), una vez cada una.
+kd48d02bb55	Recoil + Arm (Arm Front from the front, Arm Back from behind)	Retroceso + Arm (Arm Front de frente, Arm Back de espaldas)
+k2e786519aa	Recoil + Arm Front (native: head flash from behind)	Retroceso + Arm Front (nativo: head flash de espaldas)
+kea11ba5598	Recoil + Leg (Leg Front from the front, Leg Back from behind)	Retroceso + Leg (Leg Front de frente, Leg Back de espaldas)
+k2f2e085c7e	Recoil + Leg Front (from the front and from behind)	Retroceso + Leg Front (de frente y de espaldas)
+k0b0f3c1d17	Recoil + head flash	Retroceso + head flash
+k46409ecc17	Recoil + head flash (like the parry)	Retroceso + head flash (como el bloqueo)
+k2625361ec0	Recoil + head flash (default)	Retroceso + head flash (por defecto)
+k5281476b13	One step back	Un paso atrás
+ke3a3d9f2d1	Acrobatic getup	Levantamiento acrobático
+kb3457b03e1	Reads coop_jumps.txt again (data folder: room, place, facing, start height in cm - 30 by default -, advance in cm - 40 by default) and puts the room's jumps back at once.	Vuelve a leer coop_jumps.txt (carpeta de datos: sala, lugar, orientación, altura de salida en cm - 30 por defecto -, avance en cm - 40 por defecto) y recoloca al instante los saltos de la sala.
+kcce7155371	Reload	Reload
+ke05f6ee6e8	Sets every colour picker (laser, health gauge in its three states, ammo, stamina) back to the game's colour, to see it or reuse it elsewhere. The boxes stay as they are.	Devuelve cada selector de color (láser, indicador de vida en sus tres estados, munición, resistencia) al color del juego, para verlo o reutilizarlo en otro sitio. Las casillas se quedan como están.
+k001dc176bb	Restores health to the maximum.	Devuelve la vida al máximo.
+k84f857ef63	Sets the "Player 1 / 2 max health" sliders back to the game's value (1000). The boxes stay as they are.	Devuelve los deslizadores «Vida máx. del jugador 1 / 2» al valor del juego (1000). Las casillas se quedan como están.
+k64a7c128b4	Reset the default colours	Restablecer los colores por defecto
+k7d1070a8d8	Reset the default shortcuts	Restablecer los atajos por defecto
+k20b20c2ccd	Replaces the campaign money with the slider's value.	Sustituye el dinero de la campaña por el valor del deslizador.
+ked48ca7c84	Replaces the game's frames per second limit (120) with the slider's. Warning: in the mines (dark areas where the game runs very fast), too many frames per second can freeze the parasites mid-attack (a stuck, stuttering Majini, seen around 215 FPS): lower the limit or untick the option to get them going again.	Sustituye el límite de fotogramas por segundo del juego (120) por el del deslizador. Atención: en las minas (zonas oscuras donde el juego va muy rápido), demasiados fotogramas por segundo pueden congelar a los parásitos en pleno ataque (un Majini bloqueado que da tirones, visto hacia 215 FPS): baja el límite o desmarca la opción para que vuelvan a moverse.
+k59e0a81727	Replaces the current score with the slider's value.	Sustituye la puntuación actual por el valor del deslizador.
+k31a397cb5d	Replaces the dying state time given by the difficulty (Amateur 30 s, Normal and Veteran 15 s, Professional 3 s) with the slider's value, for Chris and Sheva, in the story. The bar always starts full. 0 s = immediate death when health is empty.	Sustituye el tiempo del estado moribundo que da la dificultad (Aficionado 30 s, Normal y Veterano 15 s, Profesional 3 s) por el valor del deslizador, para Chris y Sheva, en la historia. La barra siempre empieza llena. 0 s = muerte inmediata cuando la vida está vacía.
+k0d40ea43e5	Replaces the exchange points (bonus shop) with the slider's value.	Sustituye los puntos de intercambio (tienda de extras) por el valor del deslizador.
+k45a8522c0b	Gives back all its resistance units to the main knife in each player's sheath (the base knife, not the second knife nor those in the inventory).	Devuelve todas sus unidades de resistencia al cuchillo principal de la funda de cada jugador (el cuchillo base, no el segundo cuchillo ni los del inventario).
+k036e3ac553	Makes every Mercenaries character available (leave it on if some stay locked).	Hace disponibles todos los personajes de Mercenarios (déjalo activo si algunos siguen bloqueados).
+k1c04eed922	Gives back all their units to every knife of both players: main and second knife in the sheath, inventory knives.	Devuelve todas sus unidades a todos los cuchillos de los dos jugadores: principal y segundo cuchillo de la funda, cuchillos del inventario.
+k74f296fa5f	Put accessories back	Recolocar los accesorios
+kd4c4347096	Pushed back	Repelida
+k749f6c4a4c	Stays on the ground (thrown) at %.0f or less	Se queda en el suelo (proyectada) a %.0f o menos
+kddf3206f3a	Stay in place when turning collisions back on	Quedarse en el sitio al reactivar las colisiones
+ka4453459b2	Removes from the inventory the item chosen in "Item to give" (one cell). Never the weapon held in hand: change weapons first.	Quita del inventario el objeto elegido en «Objeto que dar» (una casilla). Nunca el arma que se lleva en la mano: cambia de arma antes.
+k83486c7bb0	Removes the green/yellow filter from the picture, at once. Unticking puts it back.	Quita el filtro verde/amarillo de la imagen, al instante. Desmarcar lo vuelve a poner.
+kb2bcddafb5	Removes the reticle (keyboard/mouse).	Quita la retícula (teclado/ratón).
+k9e24a03307	Removes rapid fire from every weapon of both players (the game's bonus or the trainer's rapid fire).	Quita el disparo rápido de todas las armas de los dos jugadores (extra del juego o disparo rápido del trainer).
+k3bdf2404d6	Removes infinite ammo from every weapon of both players (the game's bonus). The trainer's infinite ammo stays usable.	Quita la munición infinita de todas las armas de los dos jugadores (extra del juego). La munición infinita del trainer sigue disponible.
+k54ec24a19c	Remove	Quitar
+kb128e850c3	Remove the chosen item — P1	Quitar el objeto elegido — J1
+k838b9161b2	Remove the chosen item — P2	Quitar el objeto elegido — J2
+k107309e51c	Nothing	Nada
+kb66906138c	Roll Back (Dodge)	Roll Back (Dodge)
+kb6dc617131	Roll Forward (Dodge)	Roll Forward (Dodge)
+kb0dba58f0c	Roll Left (Dodge)	Roll Left (Dodge)
+kfa6d09a314	Roll Right (Dodge)	Roll Right (Dodge)
+k6087b6885c	Roll left/right	Roll left/right
+k45af12f366	Jill's round-off	Rondada de Jill
+kaa66fc9777	Jill's cartwheel 1	Rueda de Jill 1
+k73f639d806	Jill's cartwheel 2	Rueda de Jill 2
+ke7aa5edfdd	Back roll	Voltereta hacia atrás
+kb3ff723e6b	Back roll on the ground (RE6)	Voltereta hacia atrás en el suelo (RE6)
+k943a76487f	Forward roll	Voltereta hacia delante
+k4da9dc11ef	Roll to the right	Voltereta a la derecha
+kee76521223	Roll to the left	Voltereta a la izquierda
+kb1b392607d	Run	Run
+k0c23328d1e	Jill's reaction to the RE6 parry	Reacción de Jill al bloqueo RE6
+k9fa8076ab1	Wesker's reaction to the parry (knife / guard)	Reacción de Wesker al bloqueo (cuchillo / guardia)
+k50a63dec00	Wesker's reaction to the RE6 parry	Reacción de Wesker al bloqueo RE6
+kc12ddcb90a	Chainsaw Majini's reaction to the parry	Reacción del Majini de la motosierra al bloqueo
+kdec290e9b8	Reaper's reaction to the parry	Reacción del Reaper al bloqueo
+k184b73f6f0	Executioner's reaction to the escape	Reacción del Verdugo a la liberación
+k94767a525e	Executioner's reaction to the parry	Reacción del Verdugo al bloqueo
+k640d9b46f7	Test setting, to be removed once the position is found: at the start of the move, Chris is moved by this value relative to the synchronised enemy (side and forward in cm in his own frame, rotation in degrees). Tell me the values that work and I will put them in the move.	Ajuste de prueba, que se quitará una vez encontrada la posición: al inicio del movimiento, Chris se desplaza este valor respecto al enemigo sincronizado (lado y avance en cm en su propio sistema de referencia, rotación en grados). Dime los valores que van bien y los pondré en el movimiento.
+kba4ed30bf8	Current settings (active preset) and their shortcuts	Ajustes actuales (preajuste activo) y sus atajos
+k340ded5d89	Set the health of Jill's device	Ajustar la vida del dispositivo de Jill
+ka2d9dc8261	Repair the main knife	Reparar el cuchillo principal
+k7e5d550876	Repair every knife	Reparar todos los cuchillos
+k401e1475dd	Shadow resolution x4.	Resolución de las sombras x4.
+k91f08ee46f	Reset	Restablecer
+k0256020113	Reticle on the pad	Retícula con el mando
+k834a75740a	S&W M29 (MAG)	S&W M29 (MAG)
+kc49750c14a	S&W M500 (MAG)	S&W M500 (MAG)
+kf1ca71d77e	SIG P226 (HG)	SIG P226 (PIS)
+k424dd4565e	Safari	Safari
+k390a96a7db	Grabbed from behind by a Majini, Chris no longer gets free by himself over time: only your presses fill the gauge, as for a front grab, within the slider's time (a red bar shows it). Failed: the Majini breaks his neck (Chris's neck break reversed) and he dies.	Agarrado por la espalda por un Majini, Chris ya no se libera solo con el tiempo: solo tus pulsaciones llenan el indicador, como en un agarre de frente, en el tiempo del deslizador (una barra roja lo muestra). Fallo: el Majini le rompe el cuello (el neck break de Chris al revés) y muere.
+k83e082f1b0	Licker grab: health drain	Agarre del licker: drenaje de vida
+ka86dc51b85	Grabbed while dying	Agarrado estando moribundo
+ka83d44409e	Grab parried by Leon B, alone (RE4 Remake, test)	Agarre bloqueado por Leon B, en solitario (RE4 Remake, prueba)
+k6e56044b8c	Grab parried by Leon, alone (RE4 Remake, test)	Agarre bloqueado por Leon, en solitario (RE4 Remake, prueba)
+k1e878d5b03	Improved grabs	Agarres mejorados
+ke3dc62d382	Lethal grabs while dying	Agarres mortales estando moribundo
+kfd0df3850a	Jill's somersault (kick)	Voltereta de Jill (patada)
+k16a517e397	Samurai Edge (Barry)	Samurai Edge (Barry)
+kfdb84919a3	Samurai Edge (Wesker)	Samurai Edge (Wesker)
+kc03c14ab77	Enemy health frozen	Vida de los enemigos congelada
+k53741ff09d	Infinite health — Player 1	Vida infinita — Jugador 1
+k1be6e734b3	Infinite health — Player 2 / partner	Vida infinita — Jugador 2 / compañero
+kb1d24cb57f	Leon's back jump (RE4)	Salto hacia atrás de Leon (RE4)
+ka94494a5a2	Added vertical jump: test its area (research)	Salto vertical añadido: probar su zona (investigación)
+k1f9152a4e2	Two-person vertical jump: place here	Salto vertical a dos: colocar aquí
+k26248c271b	Two-person vertical jump: reload the settings	Salto vertical a dos: volver a leer los ajustes
+k26e13e6049	Two-person vertical jump: remove the room's	Salto vertical a dos: quitar los de la sala
+k8077dc254f	Skips most cutscenes.	Salta la mayoría de las cinemáticas.
+ke05b4286f4	Added two-person vertical jumps	Saltos verticales a dos añadidos
+k487f75e363	Two-person jumps: bring the partner	Saltos a dos: traer al compañero
+kad72a1f793	Two-person jumps: swapped roles	Saltos a dos: roles invertidos
+k9df9704f05	Saved if a grab makes you dying	Salvado si un agarre te deja moribundo
+k0d66d49758	Struggle while dying	Forcejear estando moribundo
+kd3076f6171	Get free of a licker alone	Liberarse solo de un licker
+k5a7d21c08c	Get free of a spider parasite alone	Liberarse solo de un parásito araña
+k5ca127d3c8	Get free of the axe monster alone (Lost in Nightmares)	Liberarse solo del monstruo del hacha (Lost in Nightmares)
+kc277bb5ba1	Get up alone (dying)	Levantarse solo (moribundo)
+kd20095497f	Second take	Segunda toma
+kc726c95ae9	Aim sensitivity (pad)	Sensibilidad de apuntado (mando)
+k3542f1b5d7	Aim sensitivity (mouse)	Sensibilidad de apuntado (ratón)
+kc816bbca8f	Sheva	Sheva
+k3757317187	Sheva Arm Back	Sheva Arm Back
+kbac57edb34	Sheva Arm Front	Sheva Arm Front
+k2cfa1c4bd1	Sheva RE6 Counter	Sheva Contra RE6
+k3a5b5f9441	Sheva Finisher Back	Sheva Finisher Back
+kced976c673	Sheva Finisher Front	Sheva Finisher Front
+ka5d6e9a4b2	Sheva Ground	Sheva Ground
+k0f9924d915	Sheva Head Flash	Sheva Head Flash
+k2e2a05dc1a	Sheva Help	Sheva Help
+k3bc00a9cf9	Sheva Leg Back	Sheva Leg Back
+k6bf65514b1	Sheva Leg Front	Sheva Leg Front
+k0649109da2	Sheva Reunion	Sheva Reunion
+kebcb9543f3	If you aim (weapon or knife) within the slider's seconds after a perfect dodge, the aim turns towards the dodged enemy (in 0.2 s, once; the mouse takes over afterwards). The slider also sets the slow motion's window.	Si apuntas (arma o cuchillo) en los segundos del deslizador tras una esquiva perfecta, la mira se gira hacia el enemigo esquivado (en 0,2 s, una vez; luego el ratón retoma el control). El deslizador ajusta también la ventana de la cámara lenta.
+k224be55a8e	If you aim (weapon or knife) right after a perfect dodge (within the window of "aim towards the dodged enemy"), the game goes to the slider's speed (0.25 = four times slower) for the duration set below.	Si apuntas (arma o cuchillo) justo después de una esquiva perfecta (en la ventana de «mira hacia el enemigo esquivado»), el juego pasa a la velocidad del deslizador (0,25 = cuatro veces más lento) durante el tiempo ajustado abajo.
+k76feb066d0	If an enemy holding you makes you dying while you still had health, you get free automatically (licker leap included) and the dying state's bar stays frozen, with no more damage, until you are free and back up; then it goes down normally. If you were already dying before the grab, nothing changes.	Si un enemigo que te sujeta te deja moribundo cuando aún tenías vida, te liberas automáticamente (salto de licker incluido) y la barra del estado moribundo se queda congelada, sin ningún daño más, hasta que estés libre y levantado; después baja normalmente. Si ya estabas moribundo antes del agarre, nada cambia.
+kf8b4ac5ab5	Heal player 1	Curar al jugador 1
+k3ccd72e54a	Heal player 2	Curar al jugador 2
+kee594b1f3b	Smart heal (shortcut)	Curación inteligente (atajo)
+ke9af0a9f3b	Heal without animation	Curación sin animación
+k974b0e5576	Healing: Herb (G+R)	Curas: Hierba (V+R)
+kb9116681e8	Healing: Herb (G+G)	Curas: Hierba (V+V)
+kc63ceaff0f	Healing: Herb (red) (0302)	Curas: Hierba (roja) (0302)
+k322092b40b	Healing: Herb (red) (0306)	Curas: Hierba (roja) (0306)
+k4889b3a998	Healing: Herb (green) (0301)	Curas: Hierba (verde) (0301)
+k3c3705727b	Healing: Herb (green) (0305)	Curas: Hierba (verde) (0305)
+k71ec298765	Healing: First aid spray	Curas: Spray de primeros auxilios
+k2e3a6b929c	Parry sound	Sonido de los bloqueos
+ke3efa96cd5	Parry sound: 	Sonido de los bloqueos:
+kddafd16baa	Parry sound: volume	Sonido de los bloqueos: volumen

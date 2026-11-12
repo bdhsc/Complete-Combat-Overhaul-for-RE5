@@ -1,0 +1,206 @@
+k9ef676dd3e	RE6 movement: the game's run (tank)	Desplazamiento RE6: carrera del juego (tanque)
+k84e0f983f2	RE6 movement: the game's walk (side steps)	Desplazamiento RE6: marcha del juego (pasos laterales)
+k71b334c63f	RE6 movement: the game's sprint (tank)	Desplazamiento RE6: sprint del juego (tanque)
+k955ceecda7	Direction-based movement (RE6)	Desplazamiento según la dirección (RE6)
+ka1e78341d6	Disable the weapons' rapid fire	Desactivar el disparo rápido de las armas
+k510caf8052	Disable the weapons' infinite ammo	Desactivar la munición infinita de las armas
+k07d523fc53	Back grab escape	Liberación de agarre por la espalda
+k54fe2a93b9	Core effect no. 	Efecto core n.º
+k5647b969ff	Counter-attack visual effect on parries	Efecto visual de contraataque en los bloqueos
+k88bedebd33	Knife slot: infinite ammo — P1	Ranura del cuchillo: munición infinita — J1
+kc39cff98f8	Knife slot — P1	Ranura del cuchillo — J1
+k8b3f831f9d	Knife slot — P2	Ranura del cuchillo — J2
+k64781e4df6	In the campaign, the game loads the HUD interface without the Mercenaries Reunion weapon icons (Barry's Samurai Edge has no icon in the inventory). Ticked, the trainer loads the Reunion archive and the game takes Reunion's interface (the same, with those icons added). Takes effect at the next load (Pause > Restart from the last checkpoint).	En la campaña, el juego carga la interfaz del HUD sin los iconos de las armas de Mercenarios Reunion (la Samurai Edge de Barry no tiene icono en el inventario). Marcada, el trainer carga el archivo de Reunion y el juego toma la interfaz de Reunion (la misma, con esos iconos de más). Surte efecto en la siguiente carga (Pausa > Reiniciar en el último punto de control).
+k88c33c6fdd	In co-op, a blow that staggers a Majini opens a follow-up for the partner, then the partner's follow-up opens a finisher for the first player. Ticked: your blow opens a second Arm Front for yourself (the partner's prompt), and this second Arm Front opens your finisher.	En cooperativo, un golpe que hace tambalear a un Majini abre una continuación al compañero, y luego la continuación del compañero abre un finisher al primer jugador. Marcado: tu golpe te abre a ti mismo un segundo Arm Front (el indicador del compañero), y ese segundo Arm Front te abre tu finisher.
+ka6f621c37d	When unticking "No collision", the player stays where they are instead of being brought back towards the place where they ticked it (the game took the path again from that place and stopped at the first wall).	Al desmarcar «Sin colisión», el jugador se queda donde está en lugar de volver hacia el lugar donde la había marcado (el juego retomaba el trayecto desde ese lugar y se detenía en la primera pared).
+k02d7b904c4	On top of stamina: the game's melee prompts and Wesker's guard (RE7 parry) cost stamina too (their cost sliders), and are refused (and hidden) while the red arc fills up (not Wesker's kneeling nor his injection). The game's dodges stay free.	Además de la resistencia: los indicadores de cuerpo a cuerpo del juego y la guardia de Wesker (bloqueo RE7) también cuestan resistencia (sus deslizadores de coste), y se rechazan (y se ocultan) mientras el arco rojo se llena (no el arrodillamiento ni la inyección de Wesker). Las esquivas del juego siguen libres.
+kef8427822d	In real seconds.	En segundos reales.
+k35b5f01ff1	Alive	Vivo
+k39e51a162a	While aiming, the run key no longer reloads: only the reload key (and firing with an empty magazine) reloads.	Al apuntar, la tecla de correr ya no recarga: solo la tecla de recarga (y disparar con el cargador vacío) recarga.
+kcf64271426	Stamina	Resistencia
+k98cc14c218	Stamina: colour	Resistencia: color
+ke436b61760	Stamina: RE7 guard cost (strict)	Resistencia: coste de la guardia RE7 (estricta)
+k91ef694a30	Stamina: trainer actions cost	Resistencia: coste de las acciones del trainer
+k69b2fd38b4	Stamina: game prompts cost (strict)	Resistencia: coste de los indicadores del juego (estricta)
+ka43f193157	Stamina: RE6 techniques cost	Resistencia: coste de las técnicas RE6
+k0232201baa	Stamina: RE6 counter cost	Resistencia: coste del contraataque RE6
+k1aaea1e1f0	Stamina: sprint cost	Resistencia: coste del sprint
+k91522bcc8a	Stamina: red bar duration	Resistencia: duración de la barra roja
+kd6823f6bc5	Stamina: slow motion consumes	Resistencia: la cámara lenta consume
+k66c476d7e2	Stamina: refill speed	Resistencia: velocidad de recarga
+kbd841c297f	Stamina: thickness	Resistencia: grosor
+ke098550ae4	Strict stamina	Resistencia estricta
+kccae1265ac	Enhanced No Mercy (700 enemies)	Enhanced No Mercy (700 enemigos)
+k4771cdd1bc	Enemy	Enemigo
+k198efa066f	Enemies	Enemigos
+k984c0b89d7	Immortal enemies	Enemigos inmortales
+k94683bf547	Enemies killed: %d	Enemigos abatidos: %d
+kac8245fd63	Records in motions.log every animation started by the players: character, current action and animation number. Used to match one character's blows to another's (animation swap).	Registra en motions.log cada animación lanzada por los jugadores: personaje, acción en curso y número de animación. Sirve para hacer corresponder los golpes de un personaje con los de otro (intercambio de animaciones).
+k53b1843b7b	Records a two-person vertical jump at Chris's place (he jumps straight ahead: face the wall or the container, about one metre away), and creates it at once.	Registra un salto vertical a dos en el lugar de Chris (salta en línea recta: ponte frente a la pared o al contenedor, a un metro más o menos), y lo crea al instante.
+kf41ca442a8	Entries	Entradas
+ka238097de1	Dodge (on the spot / roll)	Esquiva (en el sitio / voltereta)
+k28cafef2ab	Wesker's back dodge	Esquiva hacia atrás de Wesker
+k358ad8cd6c	Wesker's back dodge (em80 0x18)	Esquiva hacia atrás de Wesker (em80 0x18)
+k9e4ced0a86	Automatic dodge	Esquiva automática
+k32ac92d846	Automatic dodge: enemy distance	Esquiva automática: distancia del enemigo
+k6575c461cf	Automatic dodge: delay	Esquiva automática: retraso
+k27b8bbdbe4	Automatic dodge: Wesker style delay	Esquiva automática: retraso del estilo Wesker
+k7ab6500a97	Automatic dodge: style	Esquiva automática: estilo
+k88f983a168	Automatic dodge of rockets and bullets	Esquiva automática de cohetes y balas
+k180ca6dae8	Wesker's forward dodge	Esquiva hacia delante de Wesker
+k75f77fc365	Wesker's forward dodge (em80 0x19)	Esquiva hacia delante de Wesker (em80 0x19)
+k639eb21b99	Wesker's low dodge	Esquiva baja de Wesker
+kefea3a0b2d	Wesker's low dodge (em80 0x17)	Esquiva baja de Wesker (em80 0x17)
+k60bda518b5	Barry's dodge	Esquiva de Barry
+k3f64920ae3	Chris's dodge	Esquiva de Chris
+k4dd89ca456	Excella's dodge	Esquiva de Excella
+k297c5ee84f	Jill's dodge	Esquiva de Jill
+kc1842bf975	Josh's dodge	Esquiva de Josh
+k501eed8bbb	Rebecca's dodge	Esquiva de Rebecca
+k661e9a4df8	Sheva's dodge	Esquiva de Sheva
+kb042388e53	Wesker's dodge	Esquiva de Wesker
+k6b82dd9ef0	Wesker's dodge 5	Esquiva de Wesker 5
+kefc520ce8e	Wesker's dodge 5 (em80 0x26)	Esquiva de Wesker 5 (em80 0x26)
+kc17e97563a	Rocket and bullet dodge: style	Esquiva de cohetes y balas: estilo
+k12d380b872	Wesker's right dodge	Esquiva a la derecha de Wesker
+k85798ce1a5	Wesker's right dodge (em80 0x13)	Esquiva a la derecha de Wesker (em80 0x13)
+k0ed73bd52a	Dodge while aiming	Esquiva al apuntar
+k9bdaedc215	Barry's dodge while aiming	Esquiva al apuntar de Barry
+k2a18ae917c	Chris's dodge while aiming	Esquiva al apuntar de Chris
+kfc6d0c3283	Excella's dodge while aiming	Esquiva al apuntar de Excella
+k54c6ff6eda	Jill's dodge while aiming	Esquiva al apuntar de Jill
+k511bf33218	Josh's dodge while aiming	Esquiva al apuntar de Josh
+k5db7c23e85	Rebecca's dodge while aiming	Esquiva al apuntar de Rebecca
+kf9e6de2894	Sheva's dodge while aiming	Esquiva al apuntar de Sheva
+kbe451ea6ae	Wesker's dodge while aiming	Esquiva al apuntar de Wesker
+kd2dc7298fe	Wesker's left dodge	Esquiva a la izquierda de Wesker
+k0392398ddd	Wesker's left dodge (em80 0x14)	Esquiva a la izquierda de Wesker (em80 0x14)
+k5d67b6834a	Perfect dodge	Esquiva perfecta
+kc7f6d9b03e	Perfect dodge: 	Esquiva perfecta:
+kf5bed59fd0	Perfect dodge: Chris keeps his speed during the slow motion	Esquiva perfecta: Chris mantiene su velocidad durante la cámara lenta
+k8b88169e70	Perfect dodge: slow motion duration	Esquiva perfecta: duración de la cámara lenta
+k617107d162	Perfect dodge: slow motion	Esquiva perfecta: cámara lenta
+k70e619694d	Perfect dodge: sound	Esquiva perfecta: sonido
+k116e1c001e	Perfect dodge: sphere size	Esquiva perfecta: tamaño de la esfera
+k016bebb111	Perfect dodge: aim towards the dodged enemy	Esquiva perfecta: mira hacia el enemigo esquivado
+k4682d66ec9	Perfect dodge: sound volume	Esquiva perfecta: volumen del sonido
+k3978d77b23	Automatic perfect dodge	Esquiva perfecta automática
+k628e776746	Dodge on the spot (Quick Duck)	Esquiva en el sitio (Quick Duck)
+kba7e7621d4	Dodges	Esquivas
+k14653830a7	Dodges: cooldown	Esquivas: tiempo de recarga
+k541668d704	The game's dodges: invincible only on a perfect dodge	Esquivas del juego: invencible solo en una esquiva perfecta
+k12da5d5035	Test: game effect (research)	Prueba: efecto del juego (investigación)
+k90e5eec147	Test: prompt icon (research)	Prueba: icono de los indicadores (investigación)
+kb84e2683b6	Test: Wesker / Jill move on Chris (research)	Prueba: movimiento de Wesker / Jill en Chris (investigación)
+k12be02f76c	Test: player sound (research)	Prueba: sonido del jugador (investigación)
+k0ff4937835	Excella	Excella
+kdbc453ae22	Excella Arm Back	Excella Arm Back
+k770fc1c233	Excella Arm Front	Excella Arm Front
+kb5326ed2b1	Excella Finisher Back	Excella Finisher Back
+k1b7d65f954	Excella Finisher Front	Excella Finisher Front
+k0787f1910c	Excella Ground	Excella Ground
+k23cf0b8e84	Excella Head Flash	Excella Head Flash
+kb66e0b1a51	Excella Help	Excella Help
+k7c9cfe3ce8	Excella Leg Back	Excella Leg Back
+ka7587c9e80	Excella Leg Front	Excella Leg Front
+k45fd797803	Bursts, lethal (Disrupted 0x23)	Estalla, mortal (Disrupted 0x23)
+kd29e5ad8ff	Export the engine's classes (research)	Exportar las clases del motor (investigación)
+k492dd25e31	Export the texts to translate	Exportar los textos que traducir
+k35a43c4ee7	Leon's stealth kill, alone (RE4 Remake, test)	Ejecución sigilosa de Leon, en solitario (RE4 Remake, prueba)
+kced1505ad8	Spawn	Hacer aparecer
+k02c2b60b84	Spawn an enemy of the level (the types planned by the current level):	Hacer aparecer un enemigo del nivel (los tipos previstos por el nivel actual):
+k80dd83e4c8	Fairy Tale (Reunion)	Fairy Tale (Reunion)
+k85e9785644	Makes the game effect of this number appear in front of Chris (effect\\efl\\core\\cr...), to find the parries' sparks. Set the number, then the shortcut or the button.	Hace aparecer delante de Chris el efecto del juego de este número (effect\\efl\\core\\cr...), para encontrar las chispas de los bloqueos. Ajusta el número y luego el atajo o el botón.
+ke4ce1a460c	Makes Chris play the move chosen by the slider (0 Wesker's guard, 1 counter, 2-7 dodges, 8 Chris's throw (on Jill), 9-11 Wesker's kicks, 12 his sweep, 13 his riposte after a series of dodges, 14-18 Jill's wall runs (2nd phase), 19-22 her possible back flips, 23-27 her possible round-offs, 28-32 her possible sweeps), to see whether it fits his skeleton.	Hace que Chris ejecute el movimiento elegido con el deslizador (0 guardia de Wesker, 1 contraataque, 2-7 esquivas, 8 proyección de Chris (sobre Jill), 9-11 patadas de Wesker, 12 su barrido, 13 su réplica tras una serie de esquivas, 14-18 las carreras por la pared de Jill (2.ª fase), 19-22 sus posibles flips hacia atrás, 23-27 sus posibles rondadas, 28-32 sus posibles barridos), para ver si encaja bien en su esqueleto.
+kf914d5e313	Freezes the camera while letting you adjust it.	Congela la cámara permitiendo ajustarla.
+kdf7fbafeee	Freeze the stage	Congelar la etapa
+kf4846f0a60	Freeze the camera (photo)	Congelar la cámara (foto)
+kf2dfee2df4	Freeze the camera (adjustable)	Congelar la cámara (ajustable)
+k64f00d4819	Freeze the height — Player 1	Congelar la altura — Jugador 1
+k6f79aa9851	Freeze the height — Player 2	Congelar la altura — Jugador 2
+k6b559bbec7	Freeze Jill's health	Congelar la vida de Jill
+kc59da99bc7	Freeze the health of Jill's device	Congelar la vida del dispositivo de Jill
+k5ce96da1d7	Freeze the timer	Congelar el cronómetro
+k8587ff8c39	Freeze the kill counter	Congelar el contador de muertes
+k27a81e6ee3	Freeze the checkpoint	Congelar el punto de control
+k4d2e0b5827	Finisher	Finisher
+k00774291d6	Finisher Back	Finisher Back
+ka9ccfe1f5b	Finisher Front	Finisher Front
+k34434a4a6a	Flashback	Flashback
+k57cd165fdc	Jill's back flip	Flip hacia atrás de Jill
+kc4cf0e059d	Crossing (shortcut)	Franqueo (atajo)
+kf00402cbec	Crossings on A (pad)	Franqueos con A (mando)
+ke84c1f6e67	Escape: at the next full combo	Huida: en el próximo combo completo
+k6e87136c92	Escape: blocked (stubborn)	Huida: bloqueada (se obstina)
+k1da5f1804c	Escape: not possible yet	Huida: todavía no es posible
+k58080fa805	Full Armor	Full Armor
+k01a14cc252	Wesker's guard	Guardia de Wesker
+k2a41ae14be	Wesker's guard (RE7)	Guardia de Wesker (RE7)
+k559d665a31	Wesker's guard: second grunt delay	Guardia de Wesker: retraso del segundo gruñido
+k6ddbc4b26d	Wesker's guard: player's grunt	Guardia de Wesker: gruñido del jugador
+k8dd266d92f	Wesker's guard: grunt take	Guardia de Wesker: toma del gruñido
+kfabe45e785	Wesker's guard: second grunt	Guardia de Wesker: segundo gruñido
+ke69928d0f4	Wesker's guard: grunt volume	Guardia de Wesker: volumen del gruñido
+k2388e24adb	Keep the normal camera in melee	Mantener la cámara normal en el cuerpo a cuerpo
+k7435615b45	Keep the modified size (ladders, jumps)	Mantener el tamaño modificado (escaleras, saltos)
+kfbefae1e96	Give	Dar
+kfe80498bcc	Jill's slide	Deslizamiento de Jill
+ka8cc6a8875	Drag to adjust, single click to type the value.	Arrastra para ajustar, un clic para escribir el valor.
+k54376cf614	Graphics	Gráficos
+k828146fd56	Crank gate: stays open	Reja de manivela: se queda abierta
+kce8785f42b	Greyed out without "Direction-based movement (RE6)". While running (run key or locked run, without the sprint), Chris runs as in the base game: tank, the mouse or the stick steers him, camera behind him.	En gris sin «Desplazamiento según la dirección (RE6)». Al correr (tecla de correr o carrera bloqueada, sin el sprint), Chris corre como en el juego base: en tanque, el ratón o el stick lo dirige, cámara detrás de él.
+kf05210c9ce	Greyed out without "Direction-based movement (RE6)". While walking (without the run key), Chris moves as in the base game: side steps, walking backwards, camera behind him (like RE4 and RE5).	En gris sin «Desplazamiento según la dirección (RE6)». Al caminar (sin la tecla de correr), Chris se desplaza como en el juego base: pasos laterales, retroceso, cámara detrás de él (como RE4 y RE5).
+k94942d924a	Greyed out without "Direction-based movement (RE6)". While sprinting ("Sprint (hold run)"), Chris sprints in tank style as in RE6: the mouse or the stick steers him, camera behind him.	En gris sin «Desplazamiento según la dirección (RE6)». Al esprintar («Sprint (mantener correr)»), Chris esprinta en tanque como en RE6: el ratón o el stick lo dirige, cámara detrás de él.
+k143e94af41	Ground	Ground
+k5376df989f	General	General
+k589980df93	H&K P8 (HG)	H&K P8 (PIS)
+k17f3c4ca1b	Head Flash	Head Flash
+kcdec2f1a9c	Head flash	Head flash
+k041dac2584	Head flash (default)	Head flash (por defecto)
+k563ee95ff5	Head stagger	Head stagger
+kae17f04df7	Heavy Metal (Reunion)	Heavy Metal (Reunion)
+kc47ae15370	Help	Help
+k913089f9bb	Outside a game (main menu, chapter select, options...), in the pause menu and in the inventory, the movement keys set in the game (forward, back, left, right) navigate like the arrows and the action key confirms like Enter.	Fuera de partida (menú principal, selección de capítulo, opciones...), en el menú de pausa y en el inventario, las teclas de movimiento configuradas en el juego (adelante, atrás, izquierda, derecha) navegan como las flechas y la tecla de acción confirma como Intro.
+kb80b71f043	Outside aim, the fire key launches the melee prompts. On the pad they show the fire button and the game accepts them with it (no longer with the action button); on the keyboard they show the fire key (left click) and it launches them. Firing without aiming and the RE6 quick shot do not go off while a melee prompt is shown. While aiming, the fire key fires normally.	Sin apuntar, la tecla de disparo lanza los indicadores de cuerpo a cuerpo. En el mando muestran el botón de disparo y el juego los acepta con él (ya no con el botón de acción); en el teclado muestran la tecla de disparo (clic izquierdo) y esta los lanza. El disparo sin apuntar y el disparo rápido RE6 no salen mientras se muestra un indicador de cuerpo a cuerpo. Al apuntar, la tecla de disparo dispara normalmente.
+k33f8005d7b	Reunion / No Mercy hybrid: up to 700 enemies. Turn on before starting the game.	Híbrido Reunion / No Mercy: hasta 700 enemigos. Actívalo antes de empezar la partida.
+k30e98252af	Hydra (SG)	Hydra (ESC)
+k875228548e	Icon 0 (mask 0x0)	Icono 0 (máscara 0x0)
+k57adda2976	Icon 1 (mask 0x8000)	Icono 1 (máscara 0x8000)
+k38f3228f04	Icon 10 (mask 0x1000)	Icono 10 (máscara 0x1000)
+k35e9fb030d	Icon 11 (mask 0x4000)	Icono 11 (máscara 0x4000)
+k8cd9f4333d	Icon 12 (mask 0x2000)	Icono 12 (máscara 0x2000)
+kfa4f2ccd15	Icon 13 (mask 0x9000)	Icono 13 (máscara 0x9000)
+k98b7adce3d	Icon 14 (mask 0x6000)	Icono 14 (máscara 0x6000)
+kd8662f9b0a	Icon 15 (mask 0xC000)	Icono 15 (máscara 0xC000)
+ke3011ff67a	Icon 16 (mask 0x3000)	Icono 16 (máscara 0x3000)
+kcc69858442	Icon 17 (mask 0xC00)	Icono 17 (máscara 0xC00)
+kf3fab73fd8	Icon 18 (mask 0x300)	Icono 18 (máscara 0x300)
+k5285c38989	Icon 19 (mask 0xC00)	Icono 19 (máscara 0xC00)
+k1b7a8fb0ae	Icon 2 (mask 0x1000)	Icono 2 (máscara 0x1000)
+kfc176f637f	Icon 20 (mask 0x0)	Icono 20 (máscara 0x0)
+k2328c8a7ca	Icon 21 (mask 0x0)	Icono 21 (máscara 0x0)
+ka7282cca47	Icon 22 (mask 0x8000)	Icono 22 (máscara 0x8000)
+ke6c6a62770	Icon 23 (mask 0x1000)	Icono 23 (máscara 0x1000)
+ka11e5ae17f	Icon 24 (mask 0x4000)	Icono 24 (máscara 0x4000)
+k75f4942bb4	Icon 25 (mask 0x2000)	Icono 25 (máscara 0x2000)
+k51566d8a11	Icon 26 (mask 0x0)	Icono 26 (máscara 0x0)
+ke82b98798e	Icon 27 (mask 0x0)	Icono 27 (máscara 0x0)
+kf47562af2e	Icon 28 (mask 0x0)	Icono 28 (máscara 0x0)
+k0180fdc7b4	Icon 29 (mask 0x18001)	Icono 29 (máscara 0x18001)
+k2e170f7071	Icon 3 (mask 0x4000)	Icono 3 (máscara 0x4000)
+kc5e3bd202a	Icon 4 (mask 0x2000)	Icono 4 (máscara 0x2000)
+k45fb0598ac	Icon 5 (mask 0x400)	Icono 5 (máscara 0x400)
+kb177666759	Icon 6 (mask 0x800)	Icono 6 (máscara 0x800)
+k05cb76470f	Icon 7 (mask 0x100)	Icono 7 (máscara 0x100)
+k1e565fadfc	Icon 8 (mask 0x200)	Icono 8 (máscara 0x200)
+k93bcbc88b2	Icon 9 (mask 0x8000)	Icono 9 (máscara 0x8000)
+kb929cf678b	Sheath icon next to the name	Icono de la funda junto al nombre
+k454bd792c6	Reunion weapon icons in the campaign	Iconos de las armas de Reunion en la campaña
+kaef34f155b	Ignore missing files	Ignorar archivos que faltan
+k93073e4302	Freezes the camera completely, for screenshots.	Inmoviliza la cámara por completo, para capturas de pantalla.
+k488842a4b3	Wesker's injection without the partner	Inyección de Wesker sin el compañero
+k47c2a37e12	Interrupted 1 (Abort 0x1E)	Interrumpido 1 (Abort 0x1E)
+kd74bde1955	Interrupted 2 (Abort 0x1F)	Interrumpido 2 (Abort 0x1F)
+k9783d362e6	Interrupted 3 (Abort 0x20, default)	Interrumpido 3 (Abort 0x20, por defecto)
+k10ad1a54f8	Inventory	Inventario
+k6a0b7d7b83	Inventory open: the shortcut discards the highlighted item, like "Discard" in the item's menu (the character takes it in hand then throws it away): from your inventory by you, from the partner's by the partner. Inventory closed, the shortcut does nothing.	Inventario abierto: el atajo tira el objeto resaltado, como «Tirar» en el menú del objeto (el personaje lo coge en la mano y luego lo tira): de tu inventario lo tiras tú, del del compañero lo tira el compañero. Inventario cerrado, el atajo no hace nada.

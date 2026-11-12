@@ -1,0 +1,29 @@
+kd2359c56bc	Slide camera (RE6): height	Cámara en deslizamiento (RE6): altura
+k74ed4bc68d	Slide camera (RE6): height: ON	Cámara en deslizamiento (RE6): altura: ACTIVADO
+kf0ac42ae97	Slide camera (RE6): width	Cámara en deslizamiento (RE6): anchura
+kb874fc5182	Slide camera (RE6): width: ON	Cámara en deslizamiento (RE6): anchura: ACTIVADO
+ke77e874409	Slide camera (RE6): depth	Cámara en deslizamiento (RE6): profundidad
+k1a7953fc72	Slide camera (RE6): depth: ON	Cámara en deslizamiento (RE6): profundidad: ACTIVADO
+ka7ac9d5821	As in RE6: pressing the aim key during the sprint starts the slide.	Como en RE6: pulsar la tecla de apuntar durante el esprint inicia el deslizamiento.
+k8118857205	RE6 dodge	Esquiva RE6
+ka2c7fbe8db	Moves the camera sideways in third person during RE6's dodges and slide and on the ground, without changing its angle.	Desplaza la cámara hacia un lado en tercera persona durante las esquivas y el deslizamiento de RE6 y en el suelo, sin cambiar su ángulo.
+ka05c359d5c	Knife slot — P1: Ithaca M37 (PMP)	Ranura de cuchillo — J1: Ithaca M37 (PMP)
+k92c9b73cac	Knife slot — P1: Default	Ranura de cuchillo — J1: Por defecto
+kf215f183af	Back dodge (RE6)	Esquiva atrás (RE6)
+k14dcadaafb	Forward dodge (RE6)	Esquiva adelante (RE6)
+kc6275e6703	Right dodge (RE6)	Esquiva derecha (RE6)
+k9a5c051306	Dodge while aiming: failed	Esquiva apuntando: fallo
+kdb3fbf52df	Left dodge (RE6)	Esquiva izquierda (RE6)
+k725bd71d1f	In-place dodge (RE6)	Esquiva en el sitio (RE6)
+k65e4f1868b	Slide (RE6)	Deslizamiento (RE6)
+k707d4b736a	Josh's Finisher Front (HEAD CRUSH) played on the nearest enemy (3 m), synchronised with it like Chris's throw, but with its own settings: the enemy only dies if the damage, the critical or "One-hit kill" decide it (otherwise it gets up); the real Finisher Front keeps its own. It is also the "Josh's throw" riposte of the parries.	El Finisher Front de Josh (HEAD CRUSH) ejecutado sobre el enemigo más cercano (3 m), sincronizado con él como la proyección de Chris, pero con sus propios ajustes: el enemigo solo muere si lo deciden el daño, el crítico o «Mata de un golpe» (si no, se levanta); el verdadero Finisher Front conserva los suyos. También es la réplica «Proyección de Josh» de las paradas.
+k5145c00426	Raises (+) or lowers (-) the camera in third person during RE6's dodges and slide and on the ground, without changing its angle.	Sube (+) o baja (-) la cámara en tercera persona durante las esquivas y el deslizamiento de RE6 y en el suelo, sin cambiar su ángulo.
+k1c540ab808	Moves the camera back (+) or forward (-) in third person during RE6's dodges and slide and on the ground, without changing its angle.	Aleja (+) o acerca (-) la cámara en tercera persona durante las esquivas y el deslizamiento de RE6 y en el suelo, sin cambiar su ángulo.
+kd66ef96775	Getup after the slide (RE6)	Levantarse tras el deslizamiento (RE6)
+ke4c3d9e5fd	Getup back right (RE6)	Levantarse atrás derecha (RE6)
+k0b748df3d3	Getup back left (RE6)	Levantarse atrás izquierda (RE6)
+kd101e94e5a	Getup forward (RE6)	Levantarse adelante (RE6)
+k746945d34d	Getup from the in-place dodge (RE6)	Levantarse de la esquiva en el sitio (RE6)
+k73020dfa86	Getup right (RE6)	Levantarse derecha (RE6)
+kc49fecaee8	Getup left (RE6)	Levantarse izquierda (RE6)
+k2c570ba403	Getup in place (RE6)	Levantarse en el sitio (RE6)

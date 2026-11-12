@@ -1,0 +1,203 @@
+k780432ee29	Pairs of levers to pull down or chains to pull together: when Chris pulls a lever down or holds a chain, he lets it go and it stays down for the slider's number of seconds (the time left shows at the top of the screen). Pull the other one down before the end: it is validated. Otherwise the first one goes back up and you have to start again. Sheva leaves them to Chris.	Los pares de palancas que bajar o de cadenas de las que tirar a la vez: cuando Chris baja una palanca o sujeta una cadena, la suelta y esta se queda bajada el número de segundos del deslizador (el tiempo restante se muestra arriba de la pantalla). Baja la otra antes del final: queda validado. Si no, la primera vuelve a subir y hay que empezar de nuevo. Sheva se las deja a Chris.
+kd19a751b04	Crossing prompts (ladders, jumps, stepping over, climbing up, climbing down, windows) ask for A instead of the action button, and the game accepts A to cross. Pickups, melee and time bonuses keep the action button.	Los indicadores de franqueo (escaleras, saltos, pasar por encima, subir, bajar, ventanas) piden A en lugar del botón de acción, y el juego acepta A para franquear. Las recogidas, el cuerpo a cuerpo y los bonus de tiempo mantienen el botón de acción.
+k72431c3b95	Mounted turrets and machine guns no longer overheat when firing.	Las torretas y ametralladoras montadas ya no se sobrecalientan al disparar.
+k9019991f41	Eggs are not consumed.	Los huevos no se consumen.
+k3e96eac803	Lever: %d s	Palanca: %d s
+k8defcad118	Two-person levers and chains: alone against a countdown	Palancas y cadenas a dos: en solitario con cuenta atrás
+ke4c1d94a03	Leon's knife escape, alone (RE4 Remake, test)	Liberación con cuchillo de Leon, en solitario (RE4 Remake, prueba)
+k27ddc510f9	Leon's lethal knife escape, alone (RE4 Remake, test)	Liberación mortal con cuchillo de Leon, en solitario (RE4 Remake, prueba)
+kf3b2c23b1e	Leon's escape without a knife, alone (RE4 Remake, test)	Liberación de Leon sin cuchillo, en solitario (RE4 Remake, prueba)
+k7f79835891	Leon's back escape, alone (RE4, test)	Liberación por la espalda de Leon, en solitario (RE4, prueba)
+k9440f97f9e	Leon's front escape, alone (RE4, test)	Liberación de frente de Leon, en solitario (RE4, prueba)
+k3cf763b949	Licker Finisher Counter	Licker Finisher Counter
+k1f521ed291	Frames per second limit	Límite de fotogramas por segundo
+k8f0699605a	M92F (HG)	M92F (PIS)
+k532fa2d8b6	M93R (HG)	M93R (PIS)
+k988779525a	Hand adapted to the bow and the Gatling	Mano adaptada al arco y a la Gatling
+kbccf84453b	Inverted hand — Player 1	Mano invertida — Jugador 1
+k6b3a9368f0	Inverted hand — Player 2	Mano invertida — Jugador 2
+k12c79089e8	Hands only	Solo las manos
+kf8d5d16059	Chapter 1-1 house: the partner goes in first	Casa del capítulo 1-1: el compañero entra primero
+k3e39d276bf	Mad chainsaw Majini (Mad Chainsaw)	Majini de la motosierra enloquecido (Mad Chainsaw)
+k42986d58d7	Cranks: weapon hidden	Manivelas: arma oculta
+kf64a363f31	Walk during actions (prototype)	Caminar durante las acciones (prototipo)
+ka3b4373619	Mash the partner key to get up faster	Machaca la tecla de compañero para levantarte más rápido
+k9e2c8918a0	Hide the inventory	Ocultar el inventario
+k903f3ac1a8	Hide the map	Ocultar el mapa
+kd35e44dec1	Hide the HUD	Ocultar el HUD
+k8aee5dec67	Hide the crosshair	Ocultar la mira
+k4a42a6b0d1	Hide the action buttons	Ocultar los botones de acción
+kac754aadc8	Stun rod	Porra eléctrica
+ka95e85aed5	Max	Máx.
+k285e67f5de	Make me dying	Ponerme moribundo
+ke00694b1e2	Melee	Melee
+k523ee31cfd	Menus with the movement keys	Menús con las teclas de movimiento
+ka505523e10	Mercenaries	Mercenarios
+k361f5af2a3	On-screen messages when an option changes	Mensajes en pantalla cuando cambia una opción
+kfa31999928	Puts the chosen icon on any action prompt shown (and the button it asks for), to find a button's icon. "None" gives the prompts their icon back.	Pone el icono elegido en cualquier indicador de acción mostrado (y el botón que pide), para encontrar el icono de un botón. «Ninguno» devuelve su icono a los indicadores.
+k8960cd5654	Sets the health of every enemy present to 0 (some bosses need one more blow).	Pone a 0 la vida de todos los enemigos presentes (algunos jefes necesitan un golpe más).
+kd0d9afd4e6	Sets the health of Jill's device (second part of the fight) to the slider's value (10000 = intact). At 7000 or less (the game's threshold), she stays on the ground after a throw.	Pone la vida del dispositivo de Jill (segunda parte del combate) al valor del deslizador (10000 = intacto). A 7000 o menos (umbral del juego), se queda en el suelo tras una proyección.
+kf20f8f4d5f	Puts the living enemies of this type in front of Chris.	Pone delante de Chris a los enemigos vivos de este tipo.
+kb1529666ae	Leon's knife kill, alone (RE4 Remake, test)	Remate con cuchillo de Leon, en solitario (RE4 Remake, prueba)
+k5f2a93a5cc	No Mercy mode (duo)	Modo No Mercy (dúo)
+kbf08152574	TPS mode (instant actions)	Modo TPS (acciones instantáneas)
+k89740c3bf0	Wheel reserved for the trainer	Rueda reservada al trainer
+k5f394877c5	Go up (no collision)	Subir (sin colisión)
+k352a1c5a32	Dying: change weapons	Moribundo: cambiar de arma
+k0a82adf95c	RE6-style dying	Moribundo al estilo RE6
+k3b548dd91e	Move: 	Movimiento:
+k0ec5eb2491	Reunion moves everywhere	Movimientos Reunion en todas partes
+k03f28397d0	Move Backwards	Move Backwards
+kba54cbe98d	Move Forward	Move Forward
+kf28eba1986	Move Left	Move Left
+kefd7f28616	Move Right	Move Right
+k6ef5bc8d2b	Multiplies the critical hit chance (the head bursting) of each weapon, as it is with its upgrades, according to its "Critical hit" slider in the table below: x0 = never, x2 = twice the chance. A weapon without criticals in the game gets none. Takes precedence over "Firearms: always critical hits (100 %)" for a weapon set to anything other than x1. Only enemies that have critical hits (Majini...). Players 1 and 2.	Multiplica la probabilidad de golpe crítico (la cabeza que estalla) de cada arma, tal como es con sus mejoras, según su deslizador «Golpe crítico» en la tabla de abajo: x0 = nunca, x2 = el doble de probabilidad. Un arma sin críticos en el juego no tiene más. Tiene prioridad sobre «Armas de fuego: golpes críticos al 100 %» para un arma ajustada en otro valor que x1. Solo los enemigos que tienen golpes críticos (Majini...). Jugadores 1 y 2.
+k1a59ec6e02	Multiplies the size of every enemy (1 = normal). Too small, some can no longer get over obstacles.	Multiplica el tamaño de todos los enemigos (1 = normal). Demasiado pequeños, algunos ya no consiguen franquear los obstáculos.
+k36069d52d6	Multiplies the magazine size of each weapon, as it is with its capacity upgrades, according to its "Ammo" slider in the table below: reloading fills the new magazine. Players 1 and 2.	Multiplica el tamaño del cargador de cada arma, tal como es con sus mejoras de capacidad, según su deslizador «Munición» en la tabla de abajo: la recarga llena el nuevo cargador. Jugadores 1 y 2.
+kec1056cc47	Multiplies the mouse speed while aiming (weapon or knife). Outside aim, the mouse keeps the game's speed.	Multiplica la velocidad del ratón al apuntar (arma o cuchillo). Sin apuntar, el ratón mantiene la velocidad del juego.
+kad4a32f164	Multiplies the speed of aiming with the right stick (horizontal and vertical), beyond the game's maximum (about 74 degrees per second).	Multiplica la velocidad del apuntado con el stick derecho (horizontal y vertical), más allá del máximo del juego (unos 74 grados por segundo).
+kf959d147a7	Multiplies the damage of each weapon, as it is with its upgrades, according to its "Power" slider in the table below: bullets, pellets, and for grenade launchers, rocket launchers, the bow and the flamethrower everything that hits while they are held (not the knife nor melee blows). Players 1 and 2.	Multiplica el daño de cada arma, tal como es con sus mejoras, según su deslizador «Potencia» en la tabla de abajo: balas, perdigones y, para los lanzagranadas, lanzacohetes, el arco y el lanzallamas, todo lo que alcanza mientras se sostienen (no el cuchillo ni los golpes cuerpo a cuerpo). Jugadores 1 y 2.
+k84db4b73f9	Multiplies the damage of Chris's knife slashes (a slash does 50 to 60, a handgun bullet 250 to 300).	Multiplica el daño de los cuchillazos de Chris (un cuchillazo hace de 50 a 60, una bala de pistola de 250 a 300).
+kd52343d47e	Multiplies the damage of the truck's turrets on the Gigante (chapter 2-3): it staggers faster, enough to beat it without Sheva's help. Only active when a player holds a truck turret.	Multiplica el daño de las torretas del camión sobre el Gigante (capítulo 2-3): se dobla (stagger) más rápido, lo bastante para vencerlo sin la ayuda de Sheva. Solo activo cuando un jugador maneja una torreta del camión.
+ke57913c7b9	Ammo	Munición
+kb6553b556f	Ammo: Shotgun shells	Munición: Cartuchos de escopeta
+kacb8e8a527	Ammo: Flash rounds	Munición: Granadas cegadoras
+k8b773d0e27	Ammo: Flame rounds	Munición: Granadas incendiarias
+k2bad16bc0f	Ammo: Acid rounds	Munición: Granadas de ácido
+k50f215d3c3	Ammo: Nitrogen rounds	Munición: Granadas de nitrógeno
+ke3fe147444	Ammo: Explosive rounds	Munición: Granadas explosivas
+ke4d3930e44	Ammo: Electric rounds	Munición: Granadas eléctricas
+k206fb0bd85	Ammo: Machine gun ammo	Munición: Munición de subfusil
+k9a9cebd653	Ammo: Magnum ammo	Munición: Munición de mágnum
+k16801f3ac5	Ammo: Rifle ammo	Munición: Munición de rifle
+k8f42894b90	Ammo: Handgun ammo	Munición: Munición de pistola
+k18bc858e84	Ammo: RPG rocket	Munición: Cohete para RPG
+k0dac699f7a	Jill's ammo: %d rounds	Munición de Jill: %d balas
+k8ecb880906	The game's unlimited ammo OFF at start-up	Munición ilimitada del juego en OFF al arrancar
+kdbd909f27a	Infinite ammo	Munición infinita
+ka3bfb2b8db	Ammo per weapon	Munición por arma
+k7b6813024c	Melee	Cuerpo a cuerpo
+k2cd1445f23	Free melee	Cuerpo a cuerpo libre
+k4e36f98b78	Free melee Barry	Cuerpo a cuerpo libre Barry
+kef7fe7737f	Free melee Chris	Cuerpo a cuerpo libre Chris
+kda9c330932	Free melee Excella	Cuerpo a cuerpo libre Excella
+k1cf3ec0072	Free melee HUNK	Cuerpo a cuerpo libre HUNK
+kee16128782	Free melee Jill	Cuerpo a cuerpo libre Jill
+k3bc16bb85a	Free melee Josh	Cuerpo a cuerpo libre Josh
+k42c5354d06	Free melee Leon	Cuerpo a cuerpo libre Leon
+k19accbcbfb	Free melee Leon Remake	Cuerpo a cuerpo libre Leon Remake
+k3b2c087c93	Free melee Rebecca	Cuerpo a cuerpo libre Rebecca
+k5f0aec54d5	Free melee Sheva	Cuerpo a cuerpo libre Sheva
+k3a1e65c2d8	Free melee Wesker	Cuerpo a cuerpo libre Wesker
+k0f3b2789c4	Only works while aiming (weapon or knife): with no direction, Chris dodges on the spot (Quick Duck); with a direction held (forward, back, left, right), a roll to that side (or the dodges of his character's style, table above).	Solo funciona al apuntar (arma o cuchillo): sin dirección, Chris esquiva en el sitio (Quick Duck); con una dirección mantenida (adelante, atrás, izquierda, derecha), voltereta hacia ese lado (o las esquivas del estilo de su personaje, tabla de arriba).
+kedb38f2a33	Do not attack player 1	No atacar al jugador 1
+k9b29ebe0f0	Do not attack player 2	No atacar al jugador 2
+k45e118d056	Normal	Normal
+k5f71740ae2	Normal = the game's value. Drag a slider to adjust, single click to type the value.	Normal = valor del juego. Arrastra un deslizador para ajustar, un clic para escribir el valor.
+k1a9467960e	Needed to change characters without patching files.	Necesario para cambiar de personaje sin parchear archivos.
+k3de621c50d	Item	Objeto
+k49e962ed2b	Item to give	Objeto que dar
+k5b321fe1e9	Key items: Ship keycard A	Objetos clave: Tarjeta magnética A del carguero
+kca676b6307	Key items: Hangar keycard A	Objetos clave: Tarjeta magnética A del hangar
+k47e64c0af7	Key items: Ship keycard B	Objetos clave: Tarjeta magnética B del carguero
+k4c185f03fe	Key items: Hangar keycard B	Objetos clave: Tarjeta magnética B del hangar
+k2c2a416c56	Key items: Crane keycard	Objetos clave: Tarjeta magnética de la grúa
+kfa4e549dfe	Key items: Bridge keycard	Objetos clave: Tarjeta magnética del puente
+k8a7296e7b2	Key items: Emergency exit key	Objetos clave: Llave de la salida de emergencia
+kdc0ce66e47	Key items: Transport area key	Objetos clave: Llave de la zona de transporte
+k1ae4174426	Key items: Prison key	Objetos clave: Llave de la prisión
+kc43b3cc76b	Key items: Furnace key	Objetos clave: Llave del horno
+kf863113293	Key items: Guard's key	Objetos clave: Llave del guardia
+k49a178605a	Key items: Port key	Objetos clave: Llave del puerto
+k8a7b387ba2	Key items: Old building key	Objetos clave: Llave del edificio viejo
+k1966ed1188	Key items: Centaur emblem	Objetos clave: Emblema del centauro
+ke1575bd688	Key items: Sea emblem	Objetos clave: Emblema del mar
+kb619e463c6	Key items: Earth emblem	Objetos clave: Emblema de la tierra
+kf87703795f	Key items: Sky emblem	Objetos clave: Emblema del cielo
+k67e3c78839	Key items: Crank (Blue)	Objetos clave: Manivela (Azul)
+k2cddc17b3f	Key items: Crank (Red)	Objetos clave: Manivela (Roja)
+kd1f1d2073f	Key items: Crank (Green)	Objetos clave: Manivela (Verde)
+k3aca6c01eb	Key items: Crank (Purple)	Objetos clave: Manivela (Violeta)
+kcbbcb089ef	Key items: Square crank	Objetos clave: Manivela cuadrada
+k73a342f46f	Key items: Password 1	Objetos clave: Contraseña 1
+k9fe3fd4bef	Key items: Password 2	Objetos clave: Contraseña 2
+kc10f6e1525	Key items: Password 3	Objetos clave: Contraseña 3
+k78b73fd4ed	Key items: Heat-sensitive paper	Objetos clave: Papel termosensible
+kc74339e1c6	Key items: Snake tail	Objetos clave: Cola de serpiente
+k1b931ff499	Key items: Silver seal	Objetos clave: Sello de plata
+k22990b2a06	Key items: Gold seal	Objetos clave: Sello de oro
+kd5a2a9b780	Key items: Sun snake	Objetos clave: Serpiente del sol
+kb891036635	Key items: Two-headed snake	Objetos clave: Serpiente de dos cabezas
+kbd1487c8c9	Key items: Three-headed snake	Objetos clave: Serpiente de tres cabezas
+ke3c1b89cba	Key items: Beast tablet	Objetos clave: Tablilla de la bestia
+kd424cfdab0	Key items: Shaman tablet	Objetos clave: Tablilla del chamán
+k2e4ac0b274	Key items: Warrior tablet	Objetos clave: Tablilla del guerrero
+kb4517a1db2	Key items: Raptor tablet	Objetos clave: Tablilla del raptor
+k20b9bfb87e	Obstacles: climb alone	Obstáculos: escalar en solitario
+k23fe46844c	Optional obstacles: climb	Obstáculos opcionales: escalar
+k19fe0556f0	HD shadows	Sombras HD
+k53e317da5d	Tab	Pestaña
+ka4d99f74ff	Icon opacity	Opacidad del icono
+ke31d972229	Option	Opción
+k8418eb4cda	Inventory options and stack sizes: "General" sub-tab.	Opciones de inventario y tamaño de las pilas: subpestaña «General».
+kdc99535e27	Forgets the vertical jumps added in the room where Chris is (those already created stay until the area's next load).	Olvida los saltos verticales añadidos en la sala donde está Chris (los ya creados se quedan hasta la siguiente carga de la zona).
+k832407f832	Open / close the menu:	Abrir / cerrar el menú:
+k4d4f12c1bd	HP: %d / %d	PV: %d / %d
+kd687f6ebbc	Jill's HP: %d / %d%s	PV de Jill: %d / %d%s
+k06a2ce1222	Wesker's HP (Lost in Nightmares)	PV de Wesker (Lost in Nightmares)
+ke3ab2edfa5	Wesker's HP (final fight, Lost in Nightmares)	PV de Wesker (combate final, Lost in Nightmares)
+kf0c247b337	Per weapon (players 1 and 2; each column acts when its option is ticked above):	Por arma (jugadores 1 y 2; cada columna actúa cuando su opción está marcada arriba):
+k4550c68ee1	Default	Predeterminado
+k88183c86c9	Per character	Por personaje
+kad31dea6a6	Parry	Bloqueo
+k86bbd20c1f	Barry's random RE6 parry	Bloqueo RE6 aleatorio de Barry
+k6efa5a8fe4	Chris's random RE6 parry	Bloqueo RE6 aleatorio de Chris
+k86906d6972	Excella's random RE6 parry	Bloqueo RE6 aleatorio de Excella
+k6f2bd076b7	Jill's random RE6 parry	Bloqueo RE6 aleatorio de Jill
+ke4d01f870a	Josh's random RE6 parry	Bloqueo RE6 aleatorio de Josh
+kad10765c38	Rebecca's random RE6 parry	Bloqueo RE6 aleatorio de Rebecca
+k4adbff856d	Sheva's random RE6 parry	Bloqueo RE6 aleatorio de Sheva
+k15108dae09	Wesker's random RE6 parry	Bloqueo RE6 aleatorio de Wesker
+k63fa01472d	Barry's RE6 parry	Bloqueo RE6 de Barry
+ke3284f1a2e	Chris's RE6 parry	Bloqueo RE6 de Chris
+kaef430e193	Excella's RE6 parry	Bloqueo RE6 de Excella
+ke16021a03e	Jill's RE6 parry	Bloqueo RE6 de Jill
+kd3b1ae15d5	Josh's RE6 parry	Bloqueo RE6 de Josh
+kd0d260b59f	Rebecca's RE6 parry	Bloqueo RE6 de Rebecca
+k63f1668052	Sheva's RE6 parry	Bloqueo RE6 de Sheva
+k68d13741dc	Wesker's RE6 parry	Bloqueo RE6 de Wesker
+k673b63ebd2	Knife parry (RE4 Remake style)	Bloqueo con cuchillo (al estilo RE4 Remake)
+k8a1c70de3b	Leon's knife parry (RE4 Remake, test)	Bloqueo con cuchillo de Leon (RE4 Remake, prueba)
+k80049770e7	Automatic parry	Bloqueo automático
+kdf92cccebc	Automatic parry: riposte	Bloqueo automático: réplica
+k84f8123648	Parry fire, explosions and electricity	Bloquear el fuego, las explosiones y la electricidad
+kdd99c4867d	Barry's parry	Bloqueo de Barry
+kdcbe6e8188	Chris's parry	Bloqueo de Chris
+k9498067c1e	Excella's parry	Bloqueo de Excella
+k922bcd6aaa	Jill's parry	Bloqueo de Jill
+k8c2d65c3b7	Josh's parry	Bloqueo de Josh
+kf06b41f83c	Leon's parry to the right (RE4 Remake, test)	Bloqueo de Leon a la derecha (RE4 Remake, prueba)
+kfeb6aba3a4	Leon's parry to the left (RE4 Remake, test)	Bloqueo de Leon a la izquierda (RE4 Remake, prueba)
+kebc65bec16	Leon's parry, knife drawn (RE4 Remake, test)	Bloqueo de Leon, cuchillo desenfundado (RE4 Remake, prueba)
+k908b4ee30b	Rebecca's parry	Bloqueo de Rebecca
+k46d44f10eb	Sheva's parry	Bloqueo de Sheva
+ke461b9cbc0	Wesker's parry	Bloqueo de Wesker
+k7e7b718414	Grab parried with the knife: blood	Agarre bloqueado con cuchillo: sangre
+k3ed6341bc5	Parry while dying	Bloqueo estando moribundo
+kb44ce5cce7	RE6-style parry (attack key)	Bloqueo al estilo RE6 (tecla de ataque)
+k1bfaae119a	Parry per character	Bloqueo por personaje
+k29b4781cdb	Leon's perfect parry (RE4 Remake, test)	Bloqueo perfecto de Leon (RE4 Remake, prueba)
+k2667d74e11	Parry during a grab	Bloqueo durante un agarre
+k6d7874c3a2	Leon's failed parry (RE4 Remake, test)	Bloqueo fallido de Leon (RE4 Remake, prueba)
+ke9e55540a6	Parries	Bloqueos
+k2f1f8b692b	Parasite: staggers to the knife	Parásito: se tambalea con el cuchillo
+k78dc387493	Parasite: staggers to firearms	Parásito: se tambalea con las armas de fuego
+ka27ae4123a	Left at %d:%02d	Se fue a los %d:%02d
+kae2923ab85	Partner Action	Partner Action
+k8a1146e9a4	No attack from the inventory or a menu	Sin ataque desde el inventario o un menú
+k0dfa0b814c	No collision	Sin colisión
+kca0e854e54	No hand shake after a punch	Sin sacudir la mano tras un puñetazo
+kc8e2e4fd8f	No reload with the run key	Sin recarga con la tecla de correr
+k7bbb507de3	No hand tremors	Sin temblor de manos
+kf43eacbdb2	Skip cutscenes	Saltar las cinemáticas
+ke9d65a48cf	During the second part of the fight against Jill, shows at the top left the health of the device on her chest (10000 at the start, -1500 per bullet that hits it), the threshold below which she stays on the ground after a throw (red bar: she will stay on the ground, enough to try to tear the device off) and her HP.	Durante la segunda parte del combate contra Jill, muestra arriba a la izquierda la vida del dispositivo de su pecho (10000 al principio, -1500 por cada bala que le da), el umbral por debajo del cual se queda en el suelo tras una proyección (barra roja: se quedará en el suelo, lo bastante para intentar arrancar el dispositivo) y sus PV.

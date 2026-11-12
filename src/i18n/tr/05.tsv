@@ -1,0 +1,141 @@
+k46e1b385ee	Like the Ultimate Trainer: during the fight against Jill and Wesker, his 400 and 180 durations become infinite. They are read when he arrives: turn it on before the fight (or restart at the checkpoint).	Como el Ultimate Trainer: durante el combate contra Jill y Wesker, sus duraciones de 400 y 180 se vuelven infinitas. Se leen cuando llega: actívala antes del combate (o reinicia en el punto de control).
+k9dd456fafe	Like the automatic dodge (with its style, Chris invincible while the option is ticked), but each dodge is a perfect dodge: its sound, and the slow motion and the aim towards the enemy if you aim right after (perfect dodge settings).	Como la esquiva automática (con su estilo, Chris invencible mientras la opción esté marcada), pero cada esquiva es una esquiva perfecta: su sonido, y la cámara lenta y la mira hacia el enemigo si apuntas justo después (ajustes de la esquiva perfecta).
+kec55c5f9d9	Like the Ultimate Trainer's "Mad Butcher" option: every attack of the Executioner becomes his series of horizontal swings, and as soon as he is at the slider's distance from you he starts it instead of walking or running.	Como la opción «Mad Butcher» del Ultimate Trainer: cada ataque del Verdugo se convierte en su serie de golpes horizontales, y en cuanto está a la distancia del deslizador de ti empieza en lugar de caminar o correr.
+k4216578ba4	Like the Ultimate Trainer's "Mad Chainsaw" option: every attack of the chainsaw Majini becomes his chainsaw swung in all directions (his state when he gets up a second time), and as soon as he is at the slider's distance from you he starts it instead of walking or running.	Como la opción «Mad Chainsaw» del Ultimate Trainer: cada ataque del Majini de la motosierra se convierte en su motosierra en todas direcciones (su estado cuando se levanta por segunda vez), y en cuanto está a la distancia del deslizador de ti empieza en lugar de caminar o correr.
+k66ea577c3b	Kill counter	Contador de enemigos abatidos
+ka350708521	Automatic RE6 counter	Contraataque RE6 automático
+k11dd76aa04	Chris's counter	Contraataque de Chris
+kd1686eb975	Sheva's counter	Contraataque de Sheva
+k021680b745	Native counter (he falls)	Contraataque nativo (cae)
+k3a0ea9da44	Counter-attack (RE6)	Contraataque (RE6)
+k28974ce24c	Whole body	Cuerpo entero
+ked0641ff7c	Melee (opens a prompt)	Cuerpo a cuerpo (abre un indicador)
+k438c0758a1	Melee (shortcut)	Cuerpo a cuerpo (atajo)
+k07f3080885	Free melee: Jill's device instead of her health	Cuerpo a cuerpo libre: el dispositivo de Jill en lugar de su vida
+k82a36f55bc	Melee on the fire key	Cuerpo a cuerpo con la tecla de disparo
+k01829ba2d5	Excella's first aid fix	Corrección de primeros auxilios de Excella
+k5951242709	Costume at the next load (restart at the checkpoint). The list shows the costumes of the character chosen just above (or the current character). The "Reunion" costumes contain the Mercenaries Reunion blows' animations.	Traje en la siguiente carga (reiniciar en el punto de control). La lista muestra los trajes del personaje elegido justo encima (o del personaje actual). Los trajes «Reunion» contienen las animaciones de los golpes de Mercenarios Reunion.
+k6107a3a733	Player 1's costume	Traje del jugador 1
+k7446e3f2b0	Player 2's costume (partner)	Traje del jugador 2 (compañero)
+k8b16665665	Colour of the stamina arc (the red exhaustion arc keeps its own). Unticked: the health gauge's green.	Color del arco de resistencia (el arco rojo del agotamiento mantiene el suyo). Desmarcada: el verde del indicador de vida.
+k61686480ba	Health gauge colour: dying	Color del indicador de vida: agonía
+k971f1ad262	Health gauge colour: health OK	Color del indicador de vida: vida OK
+k7d0ee7c8c1	Health gauge colour: low health	Color del indicador de vida: vida baja
+k211fb84018	Colour of ammo at maximum	Color de la munición al máximo
+k527b77fc3b	Laser colour	Color del láser
+k795aeeaa18	Blow after a front grab escape	Golpe tras liberarse de un agarre de frente
+k8ba8c67f62	Knife slash (RE4 Remake)	Cuchillazo (RE4 Remake)
+k44273d2458	Leon's low knife slash (RE4)	Cuchillazo bajo de Leon (RE4)
+kf2578e8ddb	Leon's knife slash (RE4)	Cuchillazo de Leon (RE4)
+k23627ae1c1	Leon's high knife slash (RE4)	Cuchillazo alto de Leon (RE4)
+k6eb8cfa4dd	Wesker's palm strike (RE4)	Golpe de palma de Wesker (RE4)
+k08b692f9c5	Leon's roundhouse kick (RE4)	Patada circular de Leon (RE4)
+kfc93f66b63	Jill's kick	Patada de Jill
+ke2fd2a9c1c	Leon's kick after parry A (RE4 Remake)	Patada de Leon tras el bloqueo A (RE4 Remake)
+k7763a97c2a	Leon's kick after parry B (RE4 Remake)	Patada de Leon tras el bloqueo B (RE4 Remake)
+k52d0324b47	Leon's kick after parry C (RE4 Remake)	Patada de Leon tras el bloqueo C (RE4 Remake)
+keb4471e902	Leon's kick on a kneeling enemy (RE4)	Patada de Leon a un enemigo arrodillado (RE4)
+kec5e14d716	Wesker's kick 1	Patada de Wesker 1
+kb66cc5589c	Wesker's kick 2	Patada de Wesker 2
+k2351d75073	Leon's high kick (RE4)	Patada alta de Leon (RE4)
+k88234742fd	Spinning kick: Chris does it on the spot, like a half turn, and hurts the enemies that were behind him; he is invincible during the whole move.	Patada giratoria: Chris la hace en el sitio, como una media vuelta, y hiere a los enemigos que estaban detrás de él; es invencible durante todo el movimiento.
+kc30d75654c	Wesker's spinning kick	Patada giratoria de Wesker
+k5a7733204d	Blow launched after a front grab escape	Golpe lanzado tras liberarse de un agarre de frente
+k71eade80db	Hit taken	Golpe recibido
+k4baffdc5f6	Hit taken (with blood)	Golpe recibido (con sangre)
+kba478aedc3	Hit taken (opens a melee, default)	Golpe recibido (abre un cuerpo a cuerpo, por defecto)
+k825eed33f7	Hit taken (default)	Golpe recibido (por defecto)
+k7c2030dce2	Critical hits per weapon	Golpes críticos por arma
+kddd45a9432	Run while aiming too	Correr también al apuntar
+kd6fafef536	Run during actions	Correr durante las acciones
+k5bf389205b	The game's run (sped up)	Carrera del juego (acelerada)
+kcb7a465a44	Toggle run	Correr alternado
+k55d82fb48d	Run on the collapsing floor: player 2 falls	Carrera sobre el suelo que se derrumba: el jugador 2 cae
+kd2d9fc34ea	Knife	Cuchillo
+k14ca75ea74	Knife (Chris)	Cuchillo (Chris)
+ke062510680	Knife (Chris, variant)	Cuchillo (Chris, variante)
+ka0443ab7ce	Knife (RE4 Remake)	Cuchillo (RE4 Remake)
+k05156d3971	Knife (RE4 Remake, default)	Cuchillo (RE4 Remake, por defecto)
+k473ffc11d9	Knife (Sheva)	Cuchillo (Sheva)
+kd70be90b50	Knife (Sheva, variant)	Cuchillo (Sheva, variante)
+kff43f332c2	Knife: always critical hits (100 %)	Cuchillo: golpes críticos al 100 %
+ke4ffb5dd9c	Knife: durability	Cuchillo: durabilidad
+k7e5d84a4a9	Knife: knock down the Gatling	Cuchillo: derribar a la Gatling
+ke4ea7db17a	Knife: knock down the chainsaw	Cuchillo: derribar a la motosierra
+k4afce78f62	Knife: knock down the giant Majini	Cuchillo: derribar al Majini gigante
+kb5287c92a8	Knife: knock down the Executioner	Cuchillo: derribar al Verdugo
+k9c46c0e3fd	Knife: knock down the fat man	Cuchillo: derribar al gordo
+k5a5d1b9ae2	Knife: stagger (arms)	Cuchillo: hacer tambalear (brazos)
+kb4ebe90c56	Knife: stagger (body)	Cuchillo: hacer tambalear (cuerpo)
+k1a065d8720	Knife: stagger (legs)	Cuchillo: hacer tambalear (piernas)
+k4b75e9f5df	Knife: stagger (head)	Cuchillo: hacer tambalear (cabeza)
+k18a2f9c652	Knife: per type	Cuchillo: por tipo
+kd3afd4586e	Knife: quick	Cuchillo: rápido
+kee93287ec6	Knife: sheath	Cuchillo: funda
+k35ff04b747	Quick knife like the knife aim	Cuchillo rápido como el apuntado con cuchillo
+k9c20263f56	Quick knife only without aiming	Cuchillo rápido solo sin apuntar
+kaeb2504cc8	Dropped knives: chance with 1 knife	Cuchillos soltados: probabilidad con 1 cuchillo
+k04a68a93fc	Dropped knives: chance with 2 knives	Cuchillos soltados: probabilidad con 2 cuchillos
+k92de997ae0	Dropped knives: chance with 3 knives or more	Cuchillos soltados: probabilidad con 3 cuchillos o más
+kefde86f6a3	Dropped knives: chance without a knife	Cuchillos soltados: probabilidad sin cuchillo
+k077bbf8852	Knives dropped by enemies	Cuchillos soltados por los enemigos
+kbbadc7edb7	Creates the two-person vertical jumps placed with "Two-person vertical jump: place here" (the game's ladder jump: with "Two-person jumps: swapped roles", Chris jumps and Sheva gives the boost). Near a container, the jump only works when that container is raised.	Crea los saltos verticales a dos colocados con «Salto vertical a dos: colocar aquí» (el salto de una escalera del juego: con «Saltos a dos: roles invertidos», Chris salta y Sheva le hace de escalón). Cerca de un contenedor, el salto solo funciona cuando ese contenedor está subido.
+kc0ef46d12b	In Lost in Nightmares, Wesker no longer flees: neither after a full combo of Chris and Jill (which makes him leave when the game allows it), nor after his 3 minutes. At 1 HP (a neck break for example) he loses anyway.	En Lost in Nightmares, Wesker ya no huye: ni tras un combo completo de Chris y Jill (que lo hace irse cuando el juego lo permite), ni al cabo de sus 3 minutos. A 1 PV (un rompecuellos por ejemplo) pierde igualmente.
+k5440ca3c36	In Lost in Nightmares, Wesker leaves after 3 minutes of fighting: this duration (and the 400 one) becomes infinite. It is read when he arrives: turn it on before the fight (or restart at the checkpoint).	En Lost in Nightmares, Wesker se va al cabo de 3 minutos de combate: esta duración (y la de 400) se vuelve infinita. Se lee cuando llega: actívala antes del combate (o reinicia en el punto de control).
+k862c97c25e	In Lost in Nightmares, Wesker gets this much HP (8500 in the game), his maximum too. Applied when he arrives and at each change of the slider.	En Lost in Nightmares, Wesker recibe estos PV (8500 en el juego), también su máximo. Se aplica a su llegada y en cada cambio del deslizador.
+k26cd0e74ef	In Lost in Nightmares, every damage Wesker takes is multiplied by the slider (x0.25 = four times less): the game's blows as well as the trainer's. His HP cannot exceed 32767; this slider makes the fight last beyond that.	En Lost in Nightmares, cada daño que recibe Wesker se multiplica por el deslizador (x0,25 = cuatro veces menos): golpes del juego y del trainer. Sus PV no pueden superar 32767; este deslizador hace durar el combate más allá.
+kb56860ff6c	In the run where the floor collapses (with the QTEs), the game makes the one of the two who mashed the key less fall, and the other catches them. With this box, player 2 always falls and you save them: your presses always count a bit more than theirs.	En la carrera en la que el suelo se derrumba (con los QTE), el juego hace caer al de los dos que menos ha machacado la tecla, y el otro lo agarra. Con esta casilla, siempre cae el jugador 2 y tú lo salvas: tus pulsaciones siempre cuentan un poco más que las suyas.
+k36a169330f	In the marsh boat, the player driving can also aim and fire: holding aim he lets go of the wheel to aim, and drives again as soon as he releases aim.	En la lancha de las marismas, el jugador que pilota también puede apuntar y disparar: manteniendo apuntar suelta el volante para apuntar, y vuelve a pilotar en cuanto suelta apuntar.
+ka88d83c55c	In the volcano (chapter 6-3), the partner becomes Jill with her own animations, whatever the partner and animations chosen in the trainer: at the next load in the volcano (restart at the checkpoint). After Wesker's cutscene, once he fights, during the fight: "Invisible player 2" (she stays invisible before), "Do not attack player 2" and the options that limit the partner (does not attack, does not fire the turret, does not pick up, does not revive you, does not free you from grabs) no longer apply, and she gets, if she has room, a loaded VZ61 with all its upgrades and a box of machine-gun ammo.	En el volcán (capítulo 6-3), el compañero pasa a ser Jill con sus propias animaciones, sean cuales sean el compañero y las animaciones elegidos en el trainer: en la siguiente carga en el volcán (reiniciar en el punto de control). Tras la cinemática de Wesker, en cuanto combate, durante el combate: «Jugador 2 invisible» (antes sigue invisible), «No atacar al jugador 2» y las opciones que limitan al compañero (no ataca, no dispara la torreta, no recoge, no te reanima, no te libera de los agarres) dejan de aplicarse, y recibe, si tiene sitio, un VZ61 cargado con todas sus mejoras y una caja de munición de subfusil.
+k3a780289b0	In the volcano, when Wesker drops to the slider's HP, the two-person final hold (the one launched by approaching his weak point) starts by itself, even without approaching, and he no longer loses HP before it: impossible to finish him by shooting. The roles are the game's (Jill fills the counter, Chris does the regular presses). Launched this way, it is easy: 4 times fewer presses for the counter, and the regular presses no longer cost HP. Launched earlier by approaching, it keeps the game's difficulty. His HP stays shown with "Wesker's HP".	En el volcán, cuando Wesker baja a los PV del deslizador, la llave final a dos (la que se lanza acercándose a su punto débil) se lanza sola, incluso sin acercarse, y ya no pierde PV antes: imposible rematarlo disparando. Los roles son los del juego (Jill llena el contador, Chris hace las pulsaciones regulares). Lanzada así, es fácil: 4 veces menos pulsaciones para el contador, y las pulsaciones regulares ya no cuestan PV. Lanzada antes acercándose, mantiene la dificultad del juego. Sus PV siguen mostrándose con «PV de Wesker».
+ka932b101c6	In two-person jumps (boost), Sheva gives the boost and Chris jumps, each with the other's animations. When Chris presses, Sheva takes the launcher's place: she must be near the jump, unless "Two-person jumps: bring the partner" is on. Chris then presses to jump.	En los saltos a dos (escalón), Sheva hace de escalón y Chris salta, cada uno con las animaciones del otro. Cuando Chris pulsa, Sheva ocupa el lugar del lanzador: debe estar cerca del salto, salvo con «Saltos a dos: traer al compañero». Luego Chris pulsa para saltar.
+k46f1571747	In two-person jumps, as soon as the launcher is in place, the other player (Sheva, or Chris if you play Sheva) is put at their post at once by the game: no need to wait for them to arrive.	En los saltos a dos, en cuanto el lanzador está en su sitio, el juego coloca al otro jugador (Sheva, o Chris si juegas con Sheva) en su puesto al instante: ya no hace falta esperar a que llegue.
+k24942523bd	Dash	Dash
+k57a3828aaa	Dash Knee	Dash Knee
+k1084a10178	Dash Start	Dash Start
+kcb883c1466	Dash Turn Left	Dash Turn Left
+kb3566c955f	Dash Turn Right	Dash Turn Right
+k72dcda3210	Go down (no collision)	Bajar (sin colisión)
+k6fced46566	In front of Chris (3 m)	Delante de Chris (3 m)
+k9ef4bf3610	Jill's device: %d / %d	Dispositivo de Jill: %d / %d
+k852a165129	Diagnostics	Diagnóstico
+ke433b09610	Differences after a blow (research)	Diferencias tras un golpe (investigación)
+k6a13909d3b	Discard Item	Discard Item
+k5f1a7e1f69	Dodge	Esquiva
+k97728b989f	Jill dodge	Esquiva Jill
+k832dccd57a	Leon dodge	Esquiva Leon
+k0cc648a9fd	RE5 dodge	Esquiva RE5
+k462a5a5c36	RE6 dodge (RE5's for now)	Esquiva RE6 (por ahora la de RE5)
+k5055c80996	Wesker dodge	Esquiva Wesker
+kd408a0f927	Dodge per character	Esquiva por personaje
+ka1bc08dfdc	Step dodge (RE5's for now)	Esquiva step (por ahora la de RE5)
+kbf40dca175	Give and ask from a distance	Dar y pedir a distancia
+k30b7934108	Give the chosen item — P1	Dar el objeto elegido — J1
+k8846431ea1	Give the chosen item — P2	Dar el objeto elegido — J2
+kea8d4d9381	Give a rocket launcher — P1	Dar un lanzacohetes — J1
+k4b42a0bc3a	Giving an item to the partner (or asking for one) happens at once: no more giving animation, the item goes from one inventory to the other with the game's message. Players 1 and 2. Not in Mercenaries.	Dar un objeto al compañero (o pedirle uno) es inmediato: ya no hay animación de entrega, el objeto pasa de un inventario al otro con el mensaje del juego. Jugadores 1 y 2. No en Mercenarios.
+ke52ea7cb30	Draw weapon	Draw weapon
+ke30bb6b05b	Duck	Duck
+k2abfa185ca	Durability: display	Durabilidad: visualización
+ka0450fd770	Durability: wear per hit	Durabilidad: desgaste por golpe
+k946530c6e1	Durability: wear per parry	Durabilidad: desgaste por bloqueo
+k40e1c0c46d	Knife durability	Durabilidad del cuchillo
+k569b3e2506	Chris's knife durability	Durabilidad del cuchillo de Chris
+kb86028a310	Chris's knife durability (variant)	Durabilidad del cuchillo de Chris (variante)
+k8898c8e1da	Sheva's knife durability	Durabilidad del cuchillo de Sheva
+kefc2f4039e	Sheva's knife durability (variant)	Durabilidad del cuchillo de Sheva (variante)
+k1465cfe01c	Dying state duration	Duración del estado moribundo
+k8ec64586b2	Length of the last part, after the pilot's call (50 s in the game).	Duración de la última parte, tras la llamada del piloto (50 s en el juego).
+kefda90d039	Length of the second part, until the helicopter pilot's call (200 s in the game).	Duración de la segunda parte, hasta la llamada del piloto del helicóptero (200 s en el juego).
+k4c6a1f6daf	Length of the first part, until the Executioner breaks the gate (100 s in the game). With "Chapter 1-1 survival: countdown".	Duración de la primera parte, hasta que el Verdugo derriba la reja (100 s en el juego). Con «Supervivencia del capítulo 1-1: cuenta atrás».
+k423e71c2c1	Struggle!   	¡Forcejea!
+k4c6d07301e	Easy struggle	Forcejeo fácil
+keee5024aca	Unlock every character	Desbloquear todos los personajes
+k0240f2012a	Triggers the melee prompt shown (head flash, knee, stomp, finisher...) and nothing else: no pickup and no crossing. Ignored while aiming (weapon or knife). Without a melee prompt, it does nothing.	Activa el indicador de cuerpo a cuerpo mostrado (head flash, rodilla, pisotón, remate...) y nada más: ni recoger ni franquear. Se ignora al apuntar (arma o cuchillo). Sin indicador de cuerpo a cuerpo, no hace nada.
+k662c792cf5	Triggers the crossing prompt shown (ladder, jump down or forward, step over, window...) and nothing else: this shortcut never picks up an item and never launches a melee blow (Mercenaries time bonuses included). Without a crossing prompt, it does nothing.	Activa el indicador de franqueo mostrado (escalera, salto hacia abajo o hacia delante, pasar por encima, ventana...) y nada más: este atajo nunca recoge un objeto ni lanza un golpe cuerpo a cuerpo (bonus de tiempo de Mercenarios incluidos). Sin indicador de franqueo, no hace nada.
+kfefea6878c	Damage 1 (Damage 0x18: on its knees, weak point open)	Daño 1 (Damage 0x18: de rodillas, punto débil abierto)
+k57a2c627e4	Damage 2 (Damage 0x19)	Daño 2 (Damage 0x19)
+kbb89d39172	Damage 3 (Damage 0x1A)	Daño 3 (Damage 0x1A)
+kcc1c83f46f	Damage taken by Wesker (Lost in Nightmares)	Daño recibido por Wesker (Lost in Nightmares)
+ka2397e3d96	Delay before a grab's damage	Retraso antes del daño de un agarre
+k608b48e82f	Moves the stored sheath when player 1's knife slot holds a knife variant (Chris or Sheva). The knife in hand keeps its place. Immediate effect.	Desplaza la funda guardada cuando la ranura de cuchillo del jugador 1 contiene una variante de cuchillo (Chris o Sheva). El cuchillo en la mano mantiene su sitio. Efecto inmediato.

@@ -1,0 +1,155 @@
+k22eb13cb58	   (left / right)	   (izquierda / derecha)
+ka59883af5a	 (all alive)	 (todos vivos)
+k13d5dd1e2e	 (failed)	 (fallo)
+kcd23702d22	: unavailable	: no disponible
+k8d77c30ef4	: no room in Chris's animation lists	: no hay sitio en las listas de animaciones de Chris
+kdc28bd6f84	: no room in the enemy's animation lists	: no hay sitio en las listas de animaciones del enemigo
+k4846d69dc1	: failed	: fallo
+kbca237855e	 for the menu	 para el menú
+k657fec5e7a	%.0f %% of a bullet	%.0f %% de una bala
+k7e7f5fc6f5	%.0f FPS	%.0f FPS
+k7f2bb120c2	%.0f HP	%.0f PV
+k6a8b30a552	%.0f HP/s	%.0f PV/s
+kc3c492a557	%.0f presses	%.0f pulsaciones
+ka19c11480c	%.0f cm	%.0f cm
+ka7fae014ee	%.0f cm/s	%.0f cm/s
+k8246e4d9a7	%.0f deg	%.0f grados
+k5fef7bb8c8	%.0f deg/s	%.0f grados/s
+k3028a53865	%.0f ms	%.0f ms
+k7ae81509ba	%.0f per hit	%.0f por golpe
+kec4fe03a52	%.0f pts	%.0f pts
+kee4b3bcb5e	%.0f pts/s	%.0f pts/s
+k344cc1dd9f	%.0f units	%.0f unidades
+k0722bd4c53	%.1f cm	%.1f cm
+k2128e29bd1	%s (played)	%s (jugado)
+ke3aec78951	100 % = the file's own; above that, a limiter prevents clipping.	100 % = el del archivo; por encima, un limitador evita la saturación.
+kba4083dac7	2nd: hold	2.º: mantener
+kd7fcf1db27	2nd shortcut (pad...)	2.º atajo (mando...)
+ka4c9d51b53	Speeds up Wesker's guard after a parry ("Wesker's guard" riposte) by the slider's factor. Without this option it plays twice as fast. Walking during the guard keeps its pace.	Acelera la guardia de Wesker tras un bloqueo (réplica «Guardia de Wesker») según el factor del deslizador. Sin esta opción se reproduce el doble de rápido. Caminar durante la guardia mantiene su ritmo.
+k04d359fb42	Knife finisher on a kneeling enemy, alone (RE4 Remake, test)	Remate con cuchillo a un enemigo arrodillado, en solitario (RE4 Remake, prueba)
+kabfdd7aacc	Partner actions without waiting	Acciones de compañero sin esperar
+k027143673e	Actions while dying	Acciones estando moribundo
+k418e75887a	Two-person actions done alone: action key	Acciones de dos hechas en solitario: tecla de acción
+k213762e482	Activates this camera preset (and deactivates the others).	Activa este preajuste de cámara (y desactiva los demás).
+kde49136626	Activates No Mercy mode in duo Mercenaries.	Activa el modo No Mercy en Mercenarios a dúo.
+ka7c38faaf8	Activate this preset	Activar este preajuste
+kb9d8781b79	Activate the "Default" preset	Activar el preajuste «Predeterminado»
+k4477a169a6	Activate the "My setting" preset	Activar el preajuste «Mi ajuste»
+k02fe0a3ebe	Activate the "Preset 3" preset	Activar el preajuste «Preajuste 3»
+k25293c4507	Activate the "Preset 4" preset	Activar el preajuste «Preajuste 4»
+kb4aead52b4	Activate the "Preset 5" preset	Activar el preajuste «Preajuste 5»
+kbc8f3ed663	Display	Pantalla
+kb22a03010f	Shows the icon of the item in the knife sheath next to each player's name on the HUD (Chris's knife next to Chris, Sheva's next to Sheva; a handgun put in the sheath shows the handgun). Player 2's does not appear while "Invisible player 2" hides their HUD.	Muestra el icono del objeto guardado en la funda del cuchillo junto al nombre de cada jugador en el HUD (el cuchillo de Chris junto a Chris, el de Sheva junto a Sheva; una pistola guardada en la funda muestra la pistola). El del jugador 2 no aparece cuando «Jugador 2 invisible» oculta su HUD.
+k826115efde	Shows the number of enemies killed during the Mercenaries round, at the top left of the screen.	Muestra el número de enemigos abatidos durante la partida de Mercenarios, arriba a la izquierda de la pantalla.
+kbe3fd28fe8	Enlarges the area that Chris's knife slashes hit (its length and thickness): hits land from further away. The slider multiplies the original size.	Agranda la zona que alcanzan los cuchillazos de Chris (longitud y grosor): se golpea desde más lejos. El deslizador multiplica el tamaño original.
+k937d88dcc7	Adds the item chosen above. Slider = quantity (0 = the item's normal quantity).	Añade el objeto elegido arriba. Deslizador = cantidad (0 = cantidad normal del objeto).
+k10872ae15f	Adds a rocket launcher (1 rocket) to player 1: at once if it is already loaded in the level, otherwise at the checkpoint (Pause > Restart).	Añade un lanzacohetes (1 cohete) al jugador 1: al instante si ya está cargado en el nivel; si no, en el punto de control (Pausa > Reiniciar).
+k87c57ed173	Add	Añadir
+k533be0cb98	Add an item:	Añadir un objeto:
+k68b0ebb850	Adjusts the weapon's position in the left hand (Lefty option, right-handed characters). Tick to apply the slider's value, immediate effect.	Ajusta la posición del arma en la mano izquierda (opción Zurdo, personajes diestros). Marca para aplicar el valor del deslizador, efecto inmediato.
+kfdbe3def31	Go to player 2	Ir hacia el jugador 2
+k345491c965	Bring player 2 to me	Traer al jugador 2 hacia mí
+k0618696ccd	Bring the enemies to me	Traer a los enemigos hacia mí
+k8c34ef6e73	Sprint animation (RE6)	Animación del sprint (RE6)
+k159d62c23e	Excella's animations	Animaciones de Excella
+ke9418bfa7c	Inverted weapon animations — P1	Animaciones de armas invertidas — J1
+k1c7976ce58	Inverted weapon animations — P2	Animaciones de armas invertidas — J2
+k9346df50a5	Barry's animations	Animaciones de Barry
+k2bf4208935	Chris's animations	Animaciones de Chris
+k86fcee4310	Jill's animations	Animaciones de Jill
+k9beefb69df	Josh's animations	Animaciones de Josh
+k156c322d4c	Rebecca's animations	Animaciones de Rebecca
+kef160c1f3f	Sheva's animations	Animaciones de Sheva
+ke28f42c4f0	Wesker's animations	Animaciones de Wesker
+k9e6c14a064	Spawn refused by the game: 	Aparición rechazada por el juego:
+kf78f572284	Apply the money	Aplicar el dinero
+k37c5f6228f	Apply the score	Aplicar la puntuación
+k7eb0f5093b	Apply the exchange points	Aplicar los puntos de intercambio
+k18197f429f	Press the attack key (without knife aim) just before an enemy hits you: the blow is parried and Chris does his counter on Wesker (or Sheva's, or no parry: per-character table above). The enemy takes damage comparable to a head flash (500) and the state chosen in "Parried Majini state (RE6 parry)". It works alongside the knife parry (knife aim key). The slider sets the window after the press; the counter's speed is that of Wesker's guard. An attack entering the sphere around Chris (its size: Dodge) is parried before touching him, even if he is invincible.	Pulsa la tecla de ataque (sin apuntar con el cuchillo) justo antes de que un enemigo te golpee: el golpe se bloquea y Chris hace su contraataque sobre Wesker (o el de Sheva, o ningún bloqueo: tabla por personaje arriba). El enemigo recibe un daño comparable a un head flash (500) y el estado elegido en «Estado del Majini bloqueado (bloqueo RE6)». Funciona a la vez que el bloqueo con cuchillo (tecla de apuntar con el cuchillo). El deslizador ajusta la ventana tras la pulsación; la velocidad del contraataque es la de la guardia de Wesker. Un ataque que entra en la esfera alrededor de Chris (su tamaño: Esquiva) se bloquea antes de tocarlo, aunque sea invencible.
+kb2b2a713cc	Press knife aim, quick knife or knife attack just before an enemy hits you: the blow is parried (no damage), Chris ripostes with a knife slash and a Majini staggers back (head flash prompt, as after the partner's help). The slider sets the window after the press. Projectiles (axes, bolts) and parasites are parried too, without staggering the thrower. Enemy bullets cannot be parried. An attack entering the sphere around Chris (its size: Dodge) is parried before touching him, even if he is invincible. Each character's riposte (or no parry) is set in the per-character table above.	Pulsa apuntar con el cuchillo, cuchillo rápido o ataque con cuchillo justo antes de que un enemigo te golpee: el golpe se bloquea (sin daño), Chris replica con un cuchillazo y un Majini retrocede (indicador de head flash, como tras la ayuda del compañero). El deslizador ajusta la ventana tras la pulsación. Los proyectiles (hachas, virotes) y los parásitos también se bloquean, sin hacer tambalear al lanzador. Las balas enemigas no se bloquean. Un ataque que entra en la esfera alrededor de Chris (su tamaño: Esquiva) se bloquea antes de tocarlo, aunque sea invencible. La réplica de cada personaje (o ningún bloqueo) se ajusta en la tabla por personaje de arriba.
+k85122cbbd9	Press a key…	Pulsa una tecla…
+k0fa697eb90	After a throw, Jill (second part of the fight) stays on the ground if her device's health is at or below this threshold, instead of 7000 in the game (two bullets hitting it). 10000 = always, even with an intact device: every throw lets you try to tear it off.	Tras una proyección, Jill (segunda parte del combate) se queda en el suelo si la vida de su dispositivo está en este umbral o por debajo, en lugar de 7000 en el juego (dos balas que le den). 10000 = siempre, incluso con el dispositivo intacto: cada proyección te deja intentar arrancarlo.
+ke5748f5738	Arm	Arm
+k824b5f12f0	Arm Back	Arm Back
+kd1a8fb34e3	Arm Front	Arm Front
+k30ba7b2f46	Arm Front ... Leg Back: the played character's blows, set as in their tab (%s).	Arm Front ... Leg Back: los golpes del personaje jugado, ajustados como en su pestaña (%s).
+kd7db063433	Weapon	Arma
+k47ae78ede3	Lefty weapon: forward / back	Arma zurda: adelante / atrás
+k00f7dd0ef3	Lefty weapon: side	Arma zurda: lado
+kb2f245becb	Lefty weapon: up / down	Arma zurda: arriba / abajo
+kedcdfa4df2	Weapon always visible	Arma siempre visible
+k3d347c20a0	Weapons: AK-74 (SMG)	Armas: AK-74 (SUB)
+k1361a55b1c	Weapons: Bow	Armas: Arco
+k3a0b58ab85	Weapons: Knife (Chris)	Armas: Cuchillo (Chris)
+k1c10a7d4bc	Weapons: Knife (Chris, variant)	Armas: Cuchillo (Chris, variante)
+kbdde61ab5b	Weapons: Knife (Sheva)	Armas: Cuchillo (Sheva)
+k73e95bb6ed	Weapons: Knife (Sheva, variant)	Armas: Cuchillo (Sheva, variante)
+kece4a51fb9	Weapons: Dragunov SVD (RFL)	Armas: Dragunov SVD (RIF)
+kf3f2a3e1a5	Weapons: Gatling	Armas: Gatling
+k3b580b4570	Weapons: Flash grenade	Armas: Granada cegadora
+k47d7474b96	Weapons: Incendiary grenade	Armas: Granada incendiaria
+k5a0e10b092	Weapons: Hand grenade	Armas: Granada de mano
+k8d15370d11	Weapons: H&K MP5 (SMG)	Armas: H&K MP5 (SUB)
+k33310c50bf	Weapons: H&K P8 (HG)	Armas: H&K P8 (PIS)
+k8fe3a91193	Weapons: H&K PSG-1 (RFL)	Armas: H&K PSG-1 (RIF)
+k1d79985e6a	Weapons: Hydra (SG)	Armas: Hydra (ESC)
+ka9e999787a	Weapons: Ithaca M37 (SG)	Armas: Ithaca M37 (ESC)
+k59d8e17d8d	Weapons: Jail Breaker (SG)	Armas: Jail Breaker (ESC)
+k7f3f1cebc6	Weapons: L. Hawk (MAG)	Armas: L. Hawk (MAG)
+kdd7dc4d0aa	Weapons: Grenade L. (ACID)	Armas: Lanzag. (ÁCIDO)
+k763f32adaf	Weapons: Grenade L. (NITRO)	Armas: Lanzag. (NITRO)
+kabe643a350	Weapons: Grenade L. (EXP)	Armas: Lanzag. (EXP)
+kac87f830e9	Weapons: Grenade L. (INC)	Armas: Lanzag. (INC)
+k1c8272dee6	Weapons: Grenade L. (FLASH)	Armas: Lanzag. (CEG)
+kd5a5226bc0	Weapons: Grenade L. (ELEC)	Armas: Lanzag. (ELÉC)
+k5a3986b7be	Weapons: Flamethrower	Armas: Lanzallamas
+k4612de4e30	Weapons: Grenade launcher	Armas: Lanzagranadas
+kb0b0c481d5	Weapons: Rocket launcher	Armas: Lanzacohetes
+k852a5540db	Weapons: M3 (SG)	Armas: M3 (ESC)
+k3dd9cda402	Weapons: M92F (HG)	Armas: M92F (PIS)
+k955c881e50	Weapons: M93R (HG)	Armas: M93R (PIS)
+k9466b14093	Weapons: Stun rod	Armas: Porra eléctrica
+k39852490a4	Weapons: Proximity mine	Armas: Mina de proximidad
+k5256575c8f	Weapons: Px4 (HG)	Armas: Px4 (PIS)
+k1be7940ee3	Weapons: S&W M29 (MAG)	Armas: S&W M29 (MAG)
+k63a3cf4d49	Weapons: S&W M500 (MAG)	Armas: S&W M500 (MAG)
+k7ef0c3fda4	Weapons: S75 (RFL)	Armas: S75 (RIF)
+k3b578b391e	Weapons: SIG 556 (SMG)	Armas: SIG 556 (SUB)
+k7dc18f2610	Weapons: SIG P226 (HG)	Armas: SIG P226 (PIS)
+k6ac2e8802f	Weapons: SVN RPG-7	Armas: SVN RPG-7
+kf1ca861e2a	Weapons: Samurai Edge (Barry)	Armas: Samurai Edge (Barry)
+kf54e00f9a7	Weapons: Samurai Edge (Wesker)	Armas: Samurai Edge (Wesker)
+k95d6fd59fc	Weapons: VZ61 (SMG)	Armas: VZ61 (SUB)
+k2e7558563c	Weapons: Egg (white)	Armas: Huevo (blanco)
+k57666cba8e	Weapons: Egg (brown)	Armas: Huevo (marrón)
+kb3af0d8721	Weapons: Egg (golden)	Armas: Huevo (dorado)
+ke9ac3a0dcb	Weapons: Egg (rotten)	Armas: Huevo (podrido)
+k082ccc9239	Firearms: always critical hits (100 %)	Armas de fuego: golpes críticos al 100 %
+ka43205a30f	Firearms: knock down the Gatling Majini	Armas de fuego: derribar al Majini de la Gatling
+k8c717fc8c6	Firearms: knock down the chainsaw Majini	Armas de fuego: derribar al Majini de la motosierra
+k00ad98cd4c	Firearms: knock down the giant Majini	Armas de fuego: derribar al Majini gigante
+k09d527b3d2	Firearms: knock down the Executioner	Armas de fuego: derribar al Verdugo
+k96e1a262ca	Firearms: knock down the fat man	Armas de fuego: derribar al gordo
+k64cf878ce1	With keyboard/mouse, shows the aiming laser (normally pad only) instead of the crosshair.	Con teclado/ratón, muestra el láser de apuntado (normalmente reservado al mando) en lugar de la mira.
+k93af3ebdf3	In the fight at the end of chapter 1-1, shows at the top of the screen the time left to hold out (without the radio calls between phases). The three "Survival 1-1" sliders set each part's length.	En el combate del final del capítulo 1-1, muestra arriba de la pantalla el tiempo que queda por aguantar (sin las llamadas de radio entre fases). Los tres deslizadores «Supervivencia 1-1» ajustan la duración de cada parte.
+k1b9f36d01c	At the start of a grab you can struggle out of, the game leaves a moment without damage (about 1.35 s for a dog, 2 s for a Majini, none for a licker's tongue): the slider multiplies it (x2 = 2.7 s for a dog). Struggling quickly you escape without losing health. Below x1, harder: the enemy grabbing you is sped up until its first bite (x0.5 = twice as fast). Not a licker's leap (no game prompt).	Al inicio de un agarre del que puedes forcejear, el juego deja un momento sin daño (unos 1,35 s para un perro, 2 s para un Majini, nada para la lengua de un licker): el deslizador lo multiplica (x2 = 2,7 s para un perro). Forcejeando rápido escapas sin perder vida. Por debajo de x1, más difícil: el enemigo que te agarra se acelera hasta su primer mordisco (x0,5 = el doble de rápido). No el salto de un licker (sin indicador del juego).
+kfd19d18bd2	At the start of chapter 1-1, after the briefing, the game waits for both players to have a weapon equipped before going on. With this option, an armed player 1 is enough: player 2 counts as armed without being given anything.	Al inicio del capítulo 1-1, tras la sesión informativa, el juego espera a que los dos jugadores tengan un arma equipada para continuar. Con esta opción basta con que el jugador 1 esté armado: el jugador 2 cuenta como armado sin darle nada.
+k1828a7796f	At the marsh raft (the crank only Sheva can turn): the raft starts on the other side, Chris turns the crank himself to bring it over, then a countdown shows at the top of the screen (the slider): the time to get on before it leaves again by itself for the other side.	En la balsa de las marismas (la manivela que solo Sheva puede girar): la balsa empieza en el otro lado, Chris gira él mismo la manivela para traerla y luego aparece una cuenta atrás arriba de la pantalla (el deslizador): el tiempo para subir antes de que vuelva sola al otro lado.
+kb1ccbb5954	On the ground	En el suelo
+kb2ed82f1bf	None	Ninguno
+kda51af1dca	No enemy planned (no level loaded).	Ningún enemigo previsto (ningún nivel cargado).
+kb84add5c7b	No player loaded.	Ningún jugador cargado.
+ke8f8827310	None	Ninguna
+ke4884d37f9	No free entry for 	No hay ninguna entrada libre para
+k598357a30e	Automation	Automatización
+k424f06631e	Forearms	Antebrazos
+kb6b267a50b	With "Partner actions without waiting", the objects Chris does alone (area doors, lifts, gates, boxes, chains...) ask for the action key (E on the keyboard, X on the pad, or A with "All actions on A") instead of the partner key (F / B). Unticked, they keep their partner key. Two-person jumps too when "swapped roles" or "bring the partner" is ticked.	Con «Acciones de compañero sin esperar», los objetos que Chris hace solo (puertas de zona, ascensores, rejas, cajas, cadenas...) piden la tecla de acción (E en el teclado, X en el mando, o A con «Todas las acciones en A») en lugar de la tecla de compañero (F / B). Desmarcada, mantienen su tecla de compañero. Los saltos a dos también cuando «roles invertidos» o «traer al compañero» está marcada.
+k5c82a7ea53	With "Toggle run": holding the run key for more than a quarter of a second makes Chris sprint (faster run and animation; not during actions nor while dying); releasing it goes back to running. The slider sets the acceleration.	Con «Correr alternado»: mantener la tecla de correr más de un cuarto de segundo hace esprintar a Chris (carrera y animación aceleradas; no durante las acciones ni estando moribundo); soltarla vuelve a la carrera. El deslizador ajusta la aceleración.
+kfd7b8b9773	With "Knife durability": plays a sound when a knife breaks in hand (sheath or inventory). The sound comes from your RE6 (file sounds\\knife_break.wav in the trainer's folder). The slider sets its volume (above 100 %, a limiter prevents clipping).	Con «Durabilidad del cuchillo»: reproduce un sonido cuando un cuchillo se rompe en la mano (funda o inventario). El sonido viene de tu RE6 (archivo sounds\\knife_break.wav de la carpeta del trainer). El deslizador ajusta su volumen (por encima del 100 %, un limitador evita la saturación).
+kd460dc45a1	With "Knife durability": the units of Chris's knife (variant) when new (wear per hit and per parry unchanged). Unticked: the "Knife durability" value.	Con «Durabilidad del cuchillo»: las unidades del cuchillo de Chris (variante) nuevo (desgaste por golpe y por bloqueo sin cambios). Desmarcado: el valor de «Durabilidad del cuchillo».
+k5e98614ae2	With "Knife durability": the units of Chris's knife when new (wear per hit and per parry unchanged). Unticked: the "Knife durability" value.	Con «Durabilidad del cuchillo»: las unidades del cuchillo de Chris nuevo (desgaste por golpe y por bloqueo sin cambios). Desmarcado: el valor de «Durabilidad del cuchillo».
+k18f27bd9eb	With "Knife durability": the units of Sheva's knife (variant) when new (wear per hit and per parry unchanged). Unticked: the "Knife durability" value.	Con «Durabilidad del cuchillo»: las unidades del cuchillo de Sheva (variante) nuevo (desgaste por golpe y por bloqueo sin cambios). Desmarcado: el valor de «Durabilidad del cuchillo».
+k2305b53242	With "Knife durability": the units of Sheva's knife when new (wear per hit and per parry unchanged). Unticked: the "Knife durability" value.	Con «Durabilidad del cuchillo»: las unidades del cuchillo de Sheva nuevo (desgaste por golpe y por bloqueo sin cambios). Desmarcado: el valor de «Durabilidad del cuchillo».
+k848dacb736	With "Knife durability": a dying enemy may drop one of the four knives (instead of the item it would have dropped), all the more often as you have few usable knives (main one in good state, second knife, inventory knives) - see the chance sliders. Without durability, never. A knife you already have is picked up anyway (it takes its own cell).	Con «Durabilidad del cuchillo»: un enemigo que muere puede soltar uno de los cuatro cuchillos (en lugar del objeto que habría soltado), tanto más a menudo cuantos menos cuchillos utilizables tengas (el principal en buen estado, el segundo cuchillo, los cuchillos del inventario) - ver los deslizadores de probabilidad. Sin la durabilidad, nunca. Un cuchillo que ya tienes se recoge igualmente (ocupa su propia casilla).
+k4d192bf2c5	With "Strict stamina": points taken per Wesker's guard (RE7 parry). Without it, the guard is free.	Con «Resistencia estricta»: puntos restados por cada guardia de Wesker (bloqueo RE7). Sin ella, la guardia es gratis.
+kd30cbcb10c	With "Strict stamina": points taken per game melee prompt.	Con «Resistencia estricta»: puntos restados por cada indicador de cuerpo a cuerpo del juego.

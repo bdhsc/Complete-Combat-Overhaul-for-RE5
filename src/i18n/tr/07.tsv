@@ -1,0 +1,111 @@
+k1d958fa921	Invincible — Player 1	Invencible — Jugador 1
+k4ba55ed35f	Invincible — Player 2 / partner	Invencible — Jugador 2 / compañero
+kaee82ccc0c	Irving	Irving
+kd2d45fd2db	Wesker's give-up gauge	Indicador de abandono de Wesker
+kfac9aee1cf	Jill's device gauge	Indicador del dispositivo de Jill
+k5c3e652ace	Discard the selected item	Tirar el objeto seleccionado
+k1fc920a7ec	Game	Juego
+k9d56529bda	Game %s  |  settings: %%LOCALAPPDATA%%\\RE5TrainerPlus\\settings.ini	Juego %s  |  ajustes: %%LOCALAPPDATA%%\\RE5TrainerPlus\\settings.ini
+k22fe29474b	Jill	Jill
+k2402fefc24	Jill (both parts of the fight) no longer loses health: a bullet that misses the device does not kill her, nor do the trainer's blows. She still reacts to blows, and her device gets damaged normally.	Jill (las dos partes del combate) ya no pierde vida: una bala que falla el dispositivo no la mata, ni los golpes del trainer. Sigue reaccionando a los golpes, y su dispositivo se daña normalmente.
+kd7adb8e673	Jill Arm Back	Jill Arm Back
+k425a32ac4c	Jill Arm Front	Jill Arm Front
+k41c3f0d6a6	Jill Finisher Back	Jill Finisher Back
+k6524421a24	Jill Finisher Front	Jill Finisher Front
+kd60f64a1c1	Jill Ground	Jill Ground
+k8323a7c2c0	Jill Head Flash	Jill Head Flash
+ke2b0b5b783	Jill Help	Jill Help
+k7a2ca560b4	Jill LIN/DEC	Jill LIN/DEC
+kaac310201d	Jill Leg Back	Jill Leg Back
+kff93144f45	Jill Leg Front	Jill Leg Front
+k024fcc7a58	Jill stays on the ground below this device threshold	Jill se queda en el suelo por debajo de este umbral del dispositivo
+k0fd532d9cc	Jill stays on the ground while Wesker is there	Jill se queda en el suelo mientras Wesker esté ahí
+k1f7fbfcffb	Jill gets an upgraded VZ61 (no room for the ammo)	Jill recibe un VZ61 mejorado (no hay sitio para la munición)
+ka9eab8bb4f	Jill gets an upgraded VZ61 and %d rounds	Jill recibe un VZ61 mejorado y %d balas
+k8e0ad82765	Josh	Josh
+k5dfe76355f	Josh Arm Back	Josh Arm Back
+k9ce9197e00	Josh Arm Front	Josh Arm Front
+k446134b239	Josh Counter (Finisher Front)	Josh Contra (Finisher Front)
+kbc7eaec969	Josh Finisher Back	Josh Finisher Back
+kc98a55cd35	Josh Finisher Front	Josh Finisher Front
+k64d1241246	Josh Ground	Josh Ground
+kc3d088d53e	Josh Head Flash	Josh Head Flash
+kd0df2c0b0b	Josh Help	Josh Help
+k54eac8e5df	Josh Leg Back	Josh Leg Back
+kc74e12d47e	Josh Leg Front	Josh Leg Front
+k760a3dfa26	Josh Reunion/DEC	Josh Reunion/DEC
+ke871d73f94	Plays the sound of this number from the played character's sound bank (their own voice and noises), alone and at 400 % (four at once), to find the jump grunt for Wesker's guard.	Reproduce el sonido de este número del banco de sonidos del personaje jugado (su propia voz y sus ruidos), solo y al 400 % (cuatro a la vez), para encontrar el gruñido de salto de la guardia de Wesker.
+k9d06b59b74	Player	Jugador
+k13bff5ee70	Player 1	Jugador 1
+k801df454ea	Player 2	Jugador 2
+k5b8e770c3b	Invisible player 2	Jugador 2 invisible
+k4df5abe11b	Log: %LOCALAPPDATA%\\RE5TrainerPlus\\trainer.log	Registro: %LOCALAPPDATA%\\RE5TrainerPlus\\trainer.log
+kd3eec2c8d3	Action log (research)	Registro de acciones (investigación)
+kec9bda8897	Animation log (research)	Registro de animaciones (investigación)
+kd74f693db0	Jill and Wesker animation log (research)	Registro de animaciones de Jill y Wesker (investigación)
+k6b366d5f2c	Button log (research)	Registro de botones (investigación)
+kb86a2d7f60	Blow log (research)	Registro de golpes (investigación)
+kc8960ce645	Hits taken log (research)	Registro de golpes recibidos (investigación)
+kee741e3ec2	Scenario flag log (research)	Registro de banderas del escenario (investigación)
+k5fa0a316f8	Enemy damage log (research)	Registro de daños a los enemigos (investigación)
+kf0da797cd1	Effect log (research)	Registro de efectos (investigación)
+k8611f4ed5a	Common effect log (research)	Registro de efectos comunes (investigación)
+k9aa62fe1ee	Created effect log (research)	Registro de efectos creados (investigación)
+k777657dce9	Started effect log (research)	Registro de efectos lanzados (investigación)
+ka8f53a0642	Placed effect log (research)	Registro de efectos colocados (investigación)
+kb59f6a226d	Created enemy log (research)	Registro de enemigos creados (investigación)
+kfe8981a6b8	Mercenaries kill log (research)	Registro de muertes en Mercenarios (investigación)
+k612db1bc71	Player 2 equipped item reads log (research)	Registro de lecturas del objeto equipado del jugador 2 (investigación)
+k00b783f120	Message log (research)	Registro de mensajes (investigación)
+kcc0d2efd89	Enemy death log (research)	Registro de muertes de enemigos (investigación)
+k882a31f3b6	Created object log (research)	Registro de objetos creados (investigación)
+k89b6f5714a	AI parameter log during Wesker (research)	Registro de parámetros de la IA durante Wesker (investigación)
+k143e2d4dec	Prompt log (research)	Registro de indicadores (investigación)
+k402d448c34	Sound log (research)	Registro de sonidos (investigación)
+k20ef93e3c3	Character sound log (research)	Registro de sonidos de los personajes (investigación)
+kcd5edf069a	Subtitle log (research)	Registro de subtítulos (investigación)
+kbd79da1995	Pause menu log (research)	Registro del menú de pausa (investigación)
+k1eba140fdd	Jump	Jump
+k7ac760d101	Knife	Knife
+k7d4e8970f3	Knife Horizontal	Knife Horizontal
+kb3e55fcd99	Knife Licker Tongue	Knife Licker Tongue
+k9957196233	Knife Slash1	Knife Slash1
+k4e30f0b74d	Knife Slash2	Knife Slash2
+kde0e0a7a34	Knife Vertical	Knife Vertical
+k41b0aa8501	The animation Chris plays when he sprints ("Sprint (hold run)"): the game's run, or RE6's sprint (arms swinging for handguns, magnums, knives and grenades; two-handed weapon for rifles, shotguns, machine guns and grenade launchers), chosen by the weapon held or forced. The file comes from tools/import_re6_motions.py.	La animación que ejecuta Chris cuando esprinta («Sprint (mantener correr)»): la de la carrera del juego, o el sprint de RE6 (brazos que se balancean para pistolas, mágnums, cuchillos y granadas; arma a dos manos para rifles, escopetas, subfusiles y lanzagranadas), elegida según el arma que lleva o impuesta. El archivo viene de tools/import_re6_motions.py.
+k18d14c8338	The weapon stored on the back is no longer shown (the Ultimate Trainer's "Weapon on back" option).	El arma guardada en la espalda ya no se muestra (opción «Weapon on back» del Ultimate Trainer).
+k881d935032	The weapon held stays visible in the hand during melee attacks.	El arma que se lleva sigue visible en la mano durante los ataques cuerpo a cuerpo.
+kc5105d449a	How far the first-person camera sits in front of the base of Chris's head, in the direction of his face (negative: backwards), in cm; further forward, his body enters the camera less when he moves. Unticked: 9 cm.	El avance de la cámara en primera persona delante de la base de la cabeza de Chris, en la dirección de su cara (negativo: hacia atrás), en cm; cuanto más adelante, menos entra su cuerpo en la cámara cuando se mueve. Desmarcado: 9 cm.
+kb62575dde8	The frame of Chris's animation where the elbow strike hits: the chosen recoil or jolt replaces the Majini's fall at that moment (without the beta animation).	El fotograma de la animación de Chris en el que alcanza el codazo: el retroceso o sobresalto elegido sustituye la caída del Majini en ese momento (sin la animación beta).
+k491f49d2cc	The holster stays empty when the handgun is put away (the Ultimate Trainer's "Remove handgun" option). Takes effect at the next weapon change.	La funda se queda vacía cuando la pistola está guardada (opción «Remove handgun» del Ultimate Trainer). Surte efecto en el siguiente cambio de arma.
+k19837d4ef0	L. Hawk (MAG)	L. Hawk (MAG)
+kc6f1e37a3c	The normal camera and the aim camera move into player 1's eyes (his head is made invisible to avoid odd renders); the mouse or the stick look around as usual. The melee and cutscene cameras stay their own (his head comes back with them; "Keep the normal camera in melee" keeps the first person during blows). Not in vehicles.	La cámara normal y la de apuntar pasan a los ojos del jugador 1 (su cabeza se vuelve invisible para evitar renderizados raros); el ratón o el stick miran como de costumbre. Las cámaras del cuerpo a cuerpo y de las cinemáticas siguen siendo las suyas (su cabeza vuelve con ellas; «Mantener la cámara normal en el cuerpo a cuerpo» mantiene la primera persona durante los golpes). No en los vehículos.
+kfc18e81baa	The colour of Chris's health gauge when he is dying (red in the game).	El color del indicador de vida de Chris cuando está moribundo (rojo en el juego).
+k99c71701b1	The colour of Chris's health gauge when his health is low (orange in the game).	El color del indicador de vida de Chris cuando su vida está baja (naranja en el juego).
+k2a2906d14e	The colour of Chris's health gauge when his health is good (green in the game), full health included.	El color del indicador de vida de Chris cuando su vida está bien (verde en el juego), vida completa incluida.
+kb5229e15d5	The colour of the gauge's ammo count when the weapon is full (green in the game). Unticked: the game's green.	El color del número de munición del indicador cuando el arma está llena (verde en el juego). Desmarcada: el verde del juego.
+k94c6b3892c	Wesker's guard (RE7 parry) also plays a grunt of the player, with their own voice (Chris Chris's, Sheva Sheva's). The slider is the sound's number in the character's bank (193; "Test: player sound" to listen to others).	La guardia de Wesker (bloqueo RE7) también reproduce un gruñido del jugador, con su propia voz (Chris la de Chris, Sheva la de Sheva). El deslizador es el número del sonido en el banco del personaje (193; «Prueba: sonido del jugador» para escuchar otros).
+kbbfd61dfc2	The height of the first-person camera above the base of Chris's head, in cm, along his head (it follows its tilt in the animations). Unticked: 9 cm.	La altura de la cámara en primera persona por encima de la base de la cabeza de Chris, en cm, a lo largo de su cabeza (sigue su inclinación en las animaciones). Desmarcado: 9 cm.
+k1cd009e9ee	The lamp's light (the caves' searchlight) comes from the player's belt, forwards, without holding anything: their weapons stay in hand. The slider sets the brightness (x1 = the game's lamp).	La luz de la lámpara (el foco de las cuevas) sale del cinturón del jugador, hacia delante, sin sostener nada: sus armas siguen en la mano. El deslizador ajusta el brillo (x1 = la lámpara del juego).
+k61ed304186	The knife parry (knife riposte) throws out the game's sparks between the knife and the enemy's weapon, like the two metals clashing in Resident Evil 4 Remake, instead of the ring; the other parries keep the ring (if its option is ticked).	El bloqueo con cuchillo (réplica con cuchillo) hace saltar las chispas del juego entre el cuchillo y el arma del enemigo, como los dos metales que chocan en Resident Evil 4 Remake, en lugar del anillo; los demás bloqueos mantienen el anillo (si su opción está marcada).
+k72cb4fc51b	The knife parry and its settings are in the Parry tab.	El bloqueo con cuchillo y sus ajustes están en la pestaña Bloqueo.
+kd6f33f1c97	Jill's throw from the second phase of her fight: Chris leaps forward in a somersault towards the nearest enemy (3 m) and, if he touches one, throws it. A Majini or Jill plays the animation of the thrown Chris, synchronised with him, and takes damage; another enemy is only placed in front of him. Chris is invincible during the whole move.	La proyección de Jill de la segunda fase de su combate: Chris salta hacia delante en voltereta hacia el enemigo más cercano (3 m) y, si toca a uno, lo proyecta. Un Majini o Jill ejecuta la animación de Chris proyectado, sincronizada con él, y recibe daño; otro enemigo solo se coloca delante de él. Chris es invencible durante todo el movimiento.
+kb76e0c356c	The riposte hurts the other enemies	La réplica hiere a los demás enemigos
+kfef3561f6b	The automatic parry's riposte (each character's, Parry tab, stays for your own parries; a character set to "None" has no automatic parry either).	La réplica del bloqueo automático (la de cada personaje, pestaña Bloqueo, se queda para tus propios bloqueos; un personaje ajustado en «Ninguna» tampoco tiene bloqueo automático).
+k90ce4194f6	The parry's riposte and the RE6 parry's counter depending on the character played ("None": they do not parry that way).	La réplica del bloqueo y el contraataque del bloqueo RE6 según el personaje jugado («Ninguna»: no bloquea así).
+k18220cf515	The attack key without aiming raises the weapon and fires at once, like the quick knife: the mouse aims meanwhile, holding the key keeps the weapon raised (bursts of automatic weapons), releasing it lowers it. The quick knife put on the same key is ignored.	La tecla de ataque sin apuntar levanta el arma y dispara al instante, como el cuchillo rápido: el ratón apunta mientras tanto, mantener la tecla mantiene el arma levantada (ráfagas de las armas automáticas), soltarla la baja. El cuchillo rápido asignado a la misma tecla se ignora.
+k161f5c2f2c	The enemies' health is constantly reset to the maximum (headshots and explosions can still kill).	La vida de los enemigos se restablece al máximo continuamente (los disparos a la cabeza y las explosiones aún pueden matar).
+kd77876e4be	The health of Jill's device (second part of the fight) stays what it was when the option was ticked (or when Jill arrived): neither bullets nor tearing it off lower it. Untick it to be able to tear it off.	La vida del dispositivo de Jill (segunda parte del combate) se queda en la que tenía cuando se marcó la opción (o a la llegada de Jill): ni las balas ni el arrancado la bajan. Desmárcala para poder arrancarlo.
+k89f235d02a	Aiming uses the normal camera's settings.	Apuntar usa los ajustes de la cámara normal.
+k22f034db68	Belt lamp — P1	Lámpara en el cinturón — J1
+kc8a3f0f29f	Belt lamp — P2	Lámpara en el cinturón — J2
+k926be7806f	Laser with keyboard/mouse	Láser con teclado/ratón
+kedc99772f9	The chainsaw Majini swings his chainsaw faster (as in RE4): the slider multiplies his speed during his attacks (decapitation included, not his enraged series); the rest of the time, he keeps his normal speed.	El Majini de la motosierra da sus golpes de motosierra más rápido (como en RE4): el deslizador multiplica su velocidad durante sus ataques (decapitación incluida, no su serie enfurecida); el resto del tiempo mantiene su velocidad normal.
+kbcb499f6c2	The field of view of the first-person view, in degrees (aiming zooms in the same proportion as the game's camera). Unticked: 75°.	El campo de visión de la vista en primera persona, en grados (apuntar hace zoom en la misma proporción que la cámara del juego). Desmarcado: 75°.
+k346c1d28c0	The field of view of the game cameras (normal, aim, melee), in degrees for the normal camera (42.5 = the game's): the others follow in the same proportion (the aim's zoom stays). Cutscenes keep their own.	El campo de visión de las cámaras de juego (normal, apuntado, cuerpo a cuerpo), en grados para la cámara normal (42.5 = el del juego): las demás siguen en la misma proporción (el zoom al apuntar se mantiene). Las cinemáticas mantienen el suyo.
+kdc8af15d6d	The magazine never empties.	El cargador nunca se vacía.
+kdbb5e28895	The combo counter never drops.	El contador de combo nunca baja.
+kf8ba9cbc78	Chris's counter on Wesker (in his fight), played at once on the nearest enemy (3 m), turned towards it, without a parry; he is invincible during the counter. Its settings in this table (damage, critical, one-hit kill, reaction) also apply to the RE6-style parry of a character whose counter is Chris's (Parry, per-character table).	El contraataque de Chris sobre Wesker (en su combate), ejecutado al instante sobre el enemigo más cercano (3 m), girado hacia él, sin bloqueo; es invencible durante el contraataque. Sus ajustes de esta tabla (daño, crítico, mata de un golpe, reacción) valen también para el bloqueo al estilo RE6 de un personaje cuyo contraataque es el de Chris (Bloqueo, tabla por personaje).
+kd91e6e7594	Sheva's counter on Wesker (in his fight), played at once on the nearest enemy (3 m), turned towards it, without a parry; he is invincible during the counter. Its settings in this table (damage, critical, one-hit kill, reaction) also apply to the RE6-style parry of a character whose counter is Sheva's (Parry, per-character table).	El contraataque de Sheva sobre Wesker (en su combate), ejecutado al instante sobre el enemigo más cercano (3 m), girado hacia él, sin bloqueo; es invencible durante el contraataque. Sus ajustes de esta tabla (daño, crítico, mata de un golpe, reacción) valen también para el bloqueo al estilo RE6 de un personaje cuyo contraataque es el de Sheva (Bloqueo, tabla por personaje).
+ke4d99104c2	The counter Barry does with the RE6-style parry (attack key, "RE6-style parry" ticked): Chris's or Sheva's counter on Wesker in his fight (their "RE6 Counter" lines of free melee set its damage, its critical...), or a throw on the attacker: Chris's (as he throws Jill) or Josh's ("Josh Counter"); an enemy it cannot take gets Chris's counter. None: Barry has no RE6 parry (nor the automatic counter).	El contraataque que hace Barry con el bloqueo al estilo RE6 (tecla de ataque, «Bloqueo al estilo RE6» marcado): el contraataque de Chris o el de Sheva sobre Wesker en su combate (sus líneas «Contra RE6» del cuerpo a cuerpo libre ajustan su daño, su crítico...), o una proyección sobre el atacante: la de Chris (como proyecta a Jill) o la de Josh («Josh Contra»); un enemigo al que no puede agarrar recibe el contraataque de Chris. Ninguna: Barry no tiene bloqueo RE6 (el contraataque automático tampoco).
+k39d7f03c41	The counter Chris does with the RE6-style parry (attack key, "RE6-style parry" ticked): Chris's or Sheva's counter on Wesker in his fight (their "RE6 Counter" lines of free melee set its damage, its critical...), or a throw on the attacker: Chris's (as he throws Jill) or Josh's ("Josh Counter"); an enemy it cannot take gets Chris's counter. None: Chris has no RE6 parry (nor the automatic counter).	El contraataque que hace Chris con el bloqueo al estilo RE6 (tecla de ataque, «Bloqueo al estilo RE6» marcado): el contraataque de Chris o el de Sheva sobre Wesker en su combate (sus líneas «Contra RE6» del cuerpo a cuerpo libre ajustan su daño, su crítico...), o una proyección sobre el atacante: la de Chris (como proyecta a Jill) o la de Josh («Josh Contra»); un enemigo al que no puede agarrar recibe el contraataque de Chris. Ninguna: Chris no tiene bloqueo RE6 (el contraataque automático tampoco).

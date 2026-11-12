@@ -1,0 +1,145 @@
+k58700504a0	Sound no. 	Sonido n.º
+k1ee1a3a75a	Sound when the knife breaks	Sonido cuando el cuchillo se rompe
+kb178a3de04	Stunned (opens the combo)	Aturdido (abre el combo)
+k8fc382d921	Stunned (opens the throw, default)	Aturdida (abre la proyección, por defecto)
+k62f4439fa3	Briefly stunned	Aturdida un momento
+k4012db8ab9	Sounds of the trainer's moves (cries and impacts)	Sonidos de los movimientos del trainer (gritos e impactos)
+k461f520f8b	Sprint (hold run)	Sprint (mantener correr)
+ka8530d553a	RE6 sprint depending on the weapon	Sprint de RE6 según el arma
+ke89767598e	RE6 sprint, two-handed weapon	Sprint de RE6, arma a dos manos
+k08cf2abb79	RE6 sprint, arms swinging	Sprint de RE6, brazos que se balancean
+k8fd2268cb2	Stab	Stab
+ke3d8074bf7	Stall 1	Stall 1
+k74a0cc5511	Stall 2	Stall 2
+kd979686fcd	Stand up	Stand up
+kdc6e1e577d	Leon's suplex (RE4)	Suplex de Leon (RE4)
+k64f6e617d4	Leon's suplex, alone (RE4 Remake, test)	Suplex de Leon, en solitario (RE4 Remake, prueba)
+k9639ca0cfd	Removes the shaking while aiming.	Elimina el temblor al apuntar.
+k81eaf06a1b	Remove the colour filter	Quitar el filtro de color
+kff3c40eb1b	On the game's start screen, the game's "unlimited ammo" choice is set to OFF (the game offers it ON at each launch). You can still set it back ON by hand; the trainer's infinite ammo stays available by shortcut.	En la pantalla de inicio de la partida, la opción «munición ilimitada» del juego se pone en OFF (el juego la propone en ON en cada lanzamiento). Siempre puedes volver a ponerla en ON a mano; la munición infinita del trainer sigue disponible mediante atajo.
+ke2df9fa8b0	Watch over stored weapons	Vigilancia de las armas guardadas
+k264b3148af	Survival 1-1: until the Executioner	Supervivencia 1-1: hasta el Verdugo
+kb95b24d6c8	Survival 1-1: until the helicopter's call	Supervivencia 1-1: hasta la llamada del helicóptero
+k34888c800b	Survival 1-1: until the end	Supervivencia 1-1: hasta el final
+kcff95ff830	Survival: %d:%02d	Supervivencia: %d:%02d
+k32e8f1a45a	Chapter 1-1 survival: countdown	Supervivencia del capítulo 1-1: cuenta atrás
+k083ce2c9dc	Wesker's kick series	Serie de patadas de Wesker
+kf79c95c8fa	Wesker's kick series (end of dodges)	Serie de patadas de Wesker (final de esquivas)
+kdfb47fe13d	Automatic size (according to the resolution)	Tamaño automático (según la resolución)
+k8669db0a0e	Enemy size	Tamaño de los enemigos
+ka7f0dc0c33	Stack sizes (both players, kept after restarting):	Tamaño de las pilas (los dos jugadores, se mantiene tras reiniciar):
+kcd840cb52c	Menu size	Tamaño del menú
+ka9f4b86958	Character size (1 = normal). With "Fixed size" to keep the size when jumping or on ladders. For a player you do not control, staying at 1 avoids slowdowns.	Tamaño del personaje (1 = normal). Con «Tamaño fijo» para mantener el tamaño al saltar o en las escaleras. Para un jugador que no controlas, quedarse en 1 evita ralentizaciones.
+k0fc743a5e4	Size — Player 1	Tamaño — Jugador 1
+k24cfa52cb7	Size — Player 2	Tamaño — Jugador 2
+kf476d88e8c	While the inventory is open, game time runs at the slider's speed: 0 = time stopped, 1 = real time, in between = slow motion. Chris and the inventory keep their speed (a heal taken in the inventory plays normally); time resumes as soon as the inventory closes, and during the pause menu.	Mientras el inventario está abierto, el tiempo del juego va a la velocidad del deslizador: 0 = tiempo detenido, 1 = tiempo real, en medio = cámara lenta. Chris y el inventario mantienen su velocidad (una curación tomada en el inventario se reproduce con normalidad); el tiempo se reanuda en cuanto se cierra el inventario, y durante el menú de pausa.
+k2320195136	Taunt	Taunt
+k3e36a00ea0	Minimum time between two trainer dodges (direction dodge, dodge while aiming, fixed-key dodges): a dodge too early is refused, the one in progress is no longer cut. 0 = no wait.	Tiempo mínimo entre dos esquivas del trainer (esquiva según la dirección, esquiva al apuntar, esquivas de tecla fija): una esquiva demasiado pronto se rechaza, la que está en curso ya no se corta. 0 = sin espera.
+k55b253e9d5	Time the red arc takes to fill when stamina is empty (nothing is possible meanwhile).	Tiempo que tarda el arco rojo en llenarse cuando la resistencia está vacía (no se puede hacer nada mientras tanto).
+k6edd6747f5	Hold: 	Mantener:
+k0a8518aaae	Leon's suplex test: Chris forward	Prueba del suplex de Leon: Chris hacia delante
+k3b601f3193	Leon's suplex test: Chris to the side	Prueba del suplex de Leon: Chris hacia un lado
+kb0e751284e	Leon's suplex test: Chris turned	Prueba del suplex de Leon: Chris girado
+kdd719cec51	Hang on!	¡Aguanta!
+kfe4d8a75fd	Friendly fire	Fuego amigo
+ke71f542665	RE6 quick shot: aim and fire together	Disparo rápido RE6: apuntar y disparar a la vez
+k5f62d33189	RE6-style quick shot	Disparo rápido al estilo RE6
+k834ac6064b	Rapid fire — Player 1	Disparo rápido — Jugador 1
+k318a8dfea9	Rapid fire — Player 2	Disparo rápido — Jugador 2
+kee86f60509	Fire without aiming	Disparo sin apuntar
+k21641c469a	Fire (key)	Disparar (tecla)
+kc9ce5ca854	Key	Tecla
+k306608693b	Key to hold before the shortcut (optional).\nEmpty: the shortcut works even if other keys are held (Shift to run...).\nClick then press a key. Esc = cancel, Backspace = clear.	Tecla que mantener antes del atajo (opcional).\nVacía: el atajo funciona aunque se mantengan otras teclas (Mayús para correr...).\nHaz clic y luego pulsa una tecla. Esc = cancelar, Retroceso = borrar.
+k7f0f411e0b	Turrets without overheating	Torretas sin sobrecalentamiento
+kb86138ca0b	Every active shortcut	Todos los atajos activos
+k3a222431ed	Everything as in the game	Todo como en el juego
+k0f99776816	Everything default	Todo por defecto
+kf9b4517317	Every action on A (pad)	Todas las acciones con A (mando)
+kb24eb25cd8	Every weapon in the inventory fires in bursts. Avoid with explosive weapons.	Todas las armas del inventario disparan en ráfaga. Evitar con las armas explosivas.
+kf6bda78be7	Every grab you get out of by struggling (Majini, licker tongue, dog...) is won at once, without mashing. A licker's leap too if "Get free of a licker alone" is ticked.	Todos los agarres de los que se sale forcejeando (Majini, lengua de licker, perro...) se ganan al instante, sin machacar. El salto de un licker también si «Liberarse solo de un licker» está marcado.
+kff86b04046	Goes through walls and scenery. Turning it off brings you back to the ground.	Atraviesa las paredes y el escenario. Desactivarlo te devuelve al suelo.
+k74ee6f00b3	Tribal	Tribal
+k7cb88fff4d	Fast chainsaw	Motosierra rápida
+k6f306cc962	Treasures: Gold ring	Tesoros: Anillo de oro
+kf3d66bf95e	Treasures: Precious bracelet	Tesoros: Brazalete precioso
+ka486888372	Treasures: Chalice (silver)	Tesoros: Cáliz (plata)
+k8102387b67	Treasures: Chalice (gold)	Tesoros: Cáliz (oro)
+kd2bc7d1f7b	Treasures: Gold necklace	Tesoros: Collar de oro
+k609d1152a8	Treasures: Royal necklace	Tesoros: Collar real
+k74348f1205	Treasures: Venom fang	Tesoros: Colmillo venenoso
+kb75d02892e	Treasures: Heart of Africa	Tesoros: Corazón de África
+k597af0ba71	Treasures: Lion heart	Tesoros: Corazón de león
+k5b47b14a51	Treasures: Diamond (brilliant)	Tesoros: Diamante (brillante)
+ke333919ed6	Treasures: Diamond (square)	Tesoros: Diamante (cuadrado)
+k4bf99e6c88	Treasures: Diamond (marquise)	Tesoros: Diamante (marquesa)
+k92c2279e38	Treasures: Diamond (oval)	Tesoros: Diamante (oval)
+k56c6cb5b46	Treasures: Diamond (pear)	Tesoros: Diamante (pera)
+k80ecb13eeb	Treasures: Diamond (triangle)	Tesoros: Diamante (triángulo)
+k6a6b1870ea	Treasures: Soul gem	Tesoros: Gema del alma
+k50a54557c7	Treasures: Antique clock	Tesoros: Reloj antiguo
+kae39ba9781	Treasures: Idol (silver)	Tesoros: Ídolo (plata)
+k1a09c26b59	Treasures: Idol (gold)	Tesoros: Ídolo (oro)
+kdd35c07282	Treasures: Gold bars	Tesoros: Lingotes de oro
+ke893bce7af	Treasures: Ceremonial mask	Tesoros: Máscara ceremonial
+k7aa902b0e5	Treasures: Gold (large)	Tesoros: Oro (grande)
+kd9887904e5	Treasures: Gold (small)	Tesoros: Oro (pequeño)
+kd9775873e3	Treasures: Power stone	Tesoros: Piedra de poder
+k7710e41116	Treasures: Ivory relief	Tesoros: Relieve de marfil
+k320b6d9199	Treasures: Ruby (brilliant)	Tesoros: Rubí (brillante)
+ka2a0cf2862	Treasures: Ruby (square)	Tesoros: Rubí (cuadrado)
+kf644920296	Treasures: Ruby (marquise)	Tesoros: Rubí (marquesa)
+k3b418957a8	Treasures: Ruby (oval)	Tesoros: Rubí (oval)
+k8237dd7d68	Treasures: Ruby (pear)	Tesoros: Rubí (pera)
+k73649cbb28	Treasures: Ruby (triangle)	Tesoros: Rubí (triángulo)
+k662bcc0e46	Treasures: Sapphire (brilliant)	Tesoros: Zafiro (brillante)
+k807a0eeedf	Treasures: Sapphire (square)	Tesoros: Zafiro (cuadrado)
+kefa376e7f0	Treasures: Sapphire (marquise)	Tesoros: Zafiro (marquesa)
+kd56dd2546e	Treasures: Sapphire (oval)	Tesoros: Zafiro (oval)
+k38797b0416	Treasures: Sapphire (pear)	Tesoros: Zafiro (pera)
+kc6a61acc37	Treasures: Sapphire (triangle)	Tesoros: Zafiro (triángulo)
+k6b1cd7df55	Treasures: Beetle (brown) 	Tesoros: Escarabajo (marrón)
+k5006874983	Treasures: Beetle (gold) 	Tesoros: Escarabajo (oro)
+k55f9ec856a	Treasures: Beetle (emerald) 	Tesoros: Escarabajo (esmeralda)
+k76cf43f084	Treasures: Precious beetle	Tesoros: Escarabajo precioso
+k9fe33a011e	Treasures: Topaz (brilliant)	Tesoros: Topacio (brillante)
+kb55b900076	Treasures: Topaz (square)	Tesoros: Topacio (cuadrado)
+ka0ab649629	Treasures: Topaz (marquise)	Tesoros: Topacio (marquesa)
+k1eee159a8e	Treasures: Topaz (oval)	Tesoros: Topacio (oval)
+k600e3c65c5	Treasures: Topaz (pear)	Tesoros: Topacio (pera)
+k4196f694ce	Treasures: Topaz (triangle)	Tesoros: Topacio (triángulo)
+k12a29aca54	Treasures: Emerald (brilliant)	Tesoros: Esmeralda (brillante)
+ka82b6a8623	Treasures: Emerald (square)	Tesoros: Esmeralda (cuadrado)
+k06bcb60f60	Treasures: Emerald (marquise)	Tesoros: Esmeralda (marquesa)
+k5082238b9b	Treasures: Emerald (oval)	Tesoros: Esmeralda (oval)
+k888c1b20e6	Treasures: Emerald (pear)	Tesoros: Esmeralda (pera)
+kf2d43c0bc1	Treasures: Emerald (triangle)	Tesoros: Esmeralda (triángulo)
+k3b96c3238d	Treasures: Blue enigma	Tesoros: Enigma azul
+k4c0af33579	Treasures: Bonus star (large)	Tesoros: Estrella extra (grande)
+ke2c2818206	Treasures: Bonus star (medium)	Tesoros: Estrella extra (mediana)
+k6e65fc0bda	Treasures: Bonus star (small)	Tesoros: Estrella extra (pequeña)
+k7d9c0b90a4	One-hit kill	Matar de un golpe
+k1834f90436	Kill every enemy	Matar a todos los enemigos
+k6cb0975fa3	Teleports player 1 to player 2's position.	Teletransporta al jugador 1 a la posición del jugador 2.
+k4bd9592828	Teleports player 2 (Sheva/AI) to player 1's position.	Teletransporta al jugador 2 (Sheva/IA) a la posición del jugador 1.
+kd084792107	Teleports every enemy to player 1's position.	Teletransporta a todos los enemigos a la posición del jugador 1.
+k5d43dbae41	A Majini stretching out its arms to grab you succeeds as soon as you are within reach in front of it during its move, even if you move or the angle is not perfect (in the game its hands must touch you exactly). The slider sets the reach.	Un Majini que extiende los brazos para agarrarte lo consigue en cuanto estás a su alcance delante de él durante su gesto, aunque te muevas o el ángulo no sea perfecto (en el juego sus manos tienen que tocarte exactamente). El deslizador ajusta el alcance.
+k2f1acbe9d3	A short press on the run key starts running, another stops it (no more need to hold it). With "Sprint", holding the key makes you sprint.	Una pulsación breve de la tecla de correr empieza la carrera y otra la detiene (ya no hace falta mantenerla). Con «Sprint», mantener la tecla hace esprintar.
+k751eac13d9	A click made in the inventory (confirming a heal, equipping a weapon...) or in a menu (the pause menu's "Continue"...) no longer triggers a shot, a rapid shot or a knife slash. Outside the menus nothing changes: as soon as that click is released, attacking works again.	Un clic hecho en el inventario (confirmar una cura, equipar un arma...) o en un menú («Continuar» del menú de pausa...) ya no provoca un disparo, un disparo rápido ni un cuchillazo. Fuera de los menús no cambia nada: en cuanto se suelta ese clic, el ataque vuelve a funcionar.
+kd0690406aa	A knife slash of Chris's in the head makes the enemy react like a handgun bullet: a Majini staggers, which opens melee. The slider sets the chance (0 % = the game's knife, 100 % = every slash). Ordinary Majini only: the big enemies (Executioner, Gatling, chainsaw...) have their own settings and stay as in the game when those are unticked.	Un cuchillazo de Chris en la cabeza hace reaccionar al enemigo como una bala de pistola: un Majini se tambalea, lo que abre el cuerpo a cuerpo. El deslizador ajusta la probabilidad (0 % = cuchillo del juego, 100 % = en cada cuchillazo). Solo Majini comunes: los enemigos grandes (Verdugo, Gatling, motosierra...) tienen sus propios ajustes y se quedan como en el juego cuando estos están desmarcados.
+k99b57f15ff	A knife slash of Chris's in the body makes it react like a bullet in the body. The slider sets the chance. Ordinary Majini only.	Un cuchillazo de Chris en el cuerpo lo hace reaccionar como una bala en el cuerpo. El deslizador ajusta la probabilidad. Solo Majini comunes.
+kcb3f9fc2de	A knife slash of Chris's in an arm makes it react like a bullet in the arm (even with the handgun, the arms cause less staggering than the head). The slider sets the chance. Ordinary Majini only.	Un cuchillazo de Chris en un brazo lo hace reaccionar como una bala en el brazo (incluso con la pistola, los brazos hacen tambalear menos que la cabeza). El deslizador ajusta la probabilidad. Solo Majini comunes.
+k3475140f9a	A knife slash of Chris's in a leg makes it react like a bullet in the leg: the enemy can fall to its knees, which opens melee (even with the handgun, not every time). The slider sets the chance. Ordinary Majini only.	Un cuchillazo de Chris en una pierna lo hace reaccionar como una bala en la pierna: el enemigo puede caer de rodillas, lo que abre el cuerpo a cuerpo (incluso con la pistola, no siempre). El deslizador ajusta la probabilidad. Solo Majini comunes.
+k675bfeb50e	A knife slash of Chris's on the parasite out of a Majini (or on its head) puts it in a "head flash" stagger, like a parry: melee becomes possible. Slider: the chance (0 % = the game, 50 % = one slash in two, 100 % = every slash).	Un cuchillazo de Chris en el parásito salido de un Majini (o en su cabeza) lo deja tambaleándose como con un «head flash», igual que un bloqueo: el cuerpo a cuerpo pasa a ser posible. Deslizador: la probabilidad (0 % = el juego, 50 % = uno de cada dos, 100 % = en cada golpe).
+k5f25aa5986	One of Wesker's sounds from Resident Evil 4 Remake (W1 to W20, those of the listening page; sounds\\wesker files in the trainer's folder).	Uno de los sonidos de Wesker de Resident Evil 4 Remake (W1 a W20, los de la página de escucha; archivos sounds\\wesker de la carpeta del trainer).
+k5b5e56e9e7	An enemy facing Chris at this distance or less (cm) that starts a melee attack is dodged from its wind-up, before the impact (double for a charge; automatic dodge and automatic perfect dodge). A blow that still arrives in the perfect dodge's sphere is dodged too. With the automatic parry or RE6 counter ticked, the parries come first.	Un enemigo girado hacia Chris a esta distancia o menos (cm) que empieza un ataque cuerpo a cuerpo se esquiva desde su impulso, antes del impacto (el doble para una carga; esquiva automática y esquiva perfecta automática). Un golpe que aun así llega a la esfera de la esquiva perfecta también se esquiva. Con el bloqueo o el contraataque RE6 automáticos marcados, los bloqueos van primero.
+k2af060e7bd	One shortcut per dodge: Chris does it at once.	Un atajo por esquiva: Chris la hace al instante.
+k817d92d074	One shortcut per move: Chris plays it at once on the nearest enemy (3 m), otherwise on the spot.	Un atajo por movimiento: Chris lo ejecuta al instante sobre el enemigo más cercano (3 m) o, si no, en el sitio.
+kae8cd5bab4	A second player sound right after the first (196), after the delay set below.	Un segundo sonido del jugador justo después del primero (196), tras el retraso ajustado abajo.
+k6165c15ab3	A single shortcut: standing still, Chris dodges on the spot (Quick Duck); moving forward or running, forward roll; moving back, back roll; moving left or right, a roll to that side (or the dodges of his character's style, table above).	Un solo atajo: quieto, Chris esquiva en el sitio (Quick Duck); avanzando o corriendo, voltereta hacia delante; retrocediendo, voltereta hacia atrás; desplazándose a la izquierda o a la derecha, voltereta hacia ese lado (o las esquivas del estilo de su personaje, tabla de arriba).
+kcd09948bf0	Another grab does not free you	Otro agarre no te libera
+k2db8c68771	A bullet of Chris's (every firearm) on the parasite out of a Majini (or on its head) puts it in a "head flash" stagger, like a parry: melee becomes possible. Slider: the chance (0 % = the game, 50 % = one hit in two, 100 % = every hit).	Una bala de Chris (todas las armas de fuego) en el parásito salido de un Majini (o en su cabeza) lo deja tambaleándose como con un «head flash», igual que un bloqueo: el cuerpo a cuerpo pasa a ser posible. Deslizador: la probabilidad (0 % = el juego, 50 % = uno de cada dos, 100 % = en cada golpe).
+ke2a022e345	A free entry of the level is used (one per living enemy). In Mercenaries each spawn counts in the round's enemies.	Se usa una entrada libre del nivel (una por enemigo vivo). En Mercenarios cada aparición cuenta en los enemigos de la ronda.
+kee8f1929dc	A trainer dodge (dodge, dodge while aiming, fixed-key rolls) done just before an enemy strikes: Chris is invincible during the window and an attack entering the sphere around him is dodged (no contact: no hit sound, no blood); a sound plays, the game goes into slow motion and, if you aim right after, the aim turns towards the dodged enemy. The slider sets the window after the press, as for parries. A dodge that takes you out of reach before the attack stays a normal dodge.	Una esquiva del trainer (esquiva, esquiva al apuntar, volteretas de tecla fija) hecha justo antes de que un enemigo golpee: Chris es invencible durante la ventana y un ataque que entra en la esfera a su alrededor se esquiva (ningún contacto: ni sonido de golpe, ni sangre); suena un sonido, el juego pasa a cámara lenta y, si apuntas justo después, la mira se gira hacia el enemigo esquivado. El deslizador ajusta la ventana tras la pulsación, como con los bloqueos. Una esquiva que te lleva fuera de alcance antes del ataque sigue siendo una esquiva normal.
+k4ca74d8b75	A platform or a lift set going by a lever (Sheva gets on it, Chris pulls the lever down) waits for the slider's number of seconds before leaving: time to get on after pulling the lever. The time left shows at the top of the screen.	Una plataforma o un ascensor puesto en marcha por una palanca (Sheva sube a él, Chris baja la palanca) espera el número de segundos del deslizador antes de salir: el tiempo de subir tras bajar la palanca. El tiempo restante se muestra arriba de la pantalla.
+kcdd22bd0e3	A grab parried with the knife (knife riposte) makes the enemy bleed (its own blood: red, yellowish for a parasite) instead of the sparks, with its own parry sound (file sounds\\parry_grab.wav, "Knife" chosen in "Parry sound").	Un agarre bloqueado con cuchillo (réplica con cuchillo) hace sangrar al enemigo (su propia sangre: roja, amarillenta para un parásito) en lugar de las chispas, con su propio sonido de bloqueo (archivo sounds\\parry_grab.wav, «Cuchillo» elegido en «Sonido de los bloqueos»).
+k3306dd25ae	A grab while you are dying kills you at once with the enemy's final blow, with no struggle or rescue by the partner: from the front, the Majini's bite comes at once; from behind, it breaks your neck; a licker finishes you; the others (dogs...) kill you at their first bite. The Executioner (who does not grab a dying player) and the chainsaw Majini go mad near you: chained horizontal swings, chainsaw in all directions, from the distances set in "Mad Executioner" and "Mad chainsaw Majini". Enemies only grab while you are dying with "Grabbed while dying" (Enemies tab).	Un agarre estando moribundo te mata al instante con el golpe final del enemigo, sin forcejeo ni rescate del compañero: de frente, el mordisco del Majini llega enseguida; por la espalda, te rompe el cuello; un licker te remata; los demás (perros...) te matan en su primer mordisco. El Verdugo (que no agarra a un moribundo) y el Majini de la motosierra enloquecen cerca de ti: golpes horizontales encadenados, motosierra en todas direcciones, desde las distancias ajustadas en «Verdugo enloquecido» y «Majini de la motosierra enloquecido». Los enemigos solo agarran estando moribundo con «Agarrado estando moribundo» (pestaña Enemigos).
